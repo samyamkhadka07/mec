@@ -1,0 +1,2944 @@
+[
+  {
+    "id": 1,
+    "subject": "Botany",
+    "question": "Which organelle is responsible for β-oxidation of fatty acids?",
+    "options": ["Lysosome", "Peroxisome", "Golgi body", "Mitochondria"],
+    "answer": "Peroxisome",
+    "difficulty": "Easy",
+    "explanation": "Very-long-chain fatty acids undergo initial β-oxidation in peroxisomes."
+  },
+  {
+    "id": 2,
+    "subject": "Botany",
+    "question": "Which of the following lacks a membrane?",
+    "options": ["Ribosome", "Lysosome", "Peroxisome", "Nucleus"],
+    "answer": "Ribosome",
+    "difficulty": "Easy",
+    "explanation": "Ribosomes are non-membranous ribonucleoprotein particles."
+  },
+  {
+    "id": 3,
+    "subject": "Botany",
+    "question": "The 80S ribosome consists of:",
+    "options": ["50S + 30S", "60S + 40S", "70S + 10S", "55S + 25S"],
+    "answer": "60S + 40S",
+    "difficulty": "Easy",
+    "explanation": "Eukaryotic cytosolic ribosomes are 80S, made of 60S and 40S subunits."
+  },
+  {
+    "id": 4,
+    "subject": "Botany",
+    "question": "Microtubules are made up of:",
+    "options": ["Actin", "Tubulin", "Myosin", "Collagen"],
+    "answer": "Tubulin",
+    "difficulty": "Easy",
+    "explanation": "Microtubules polymerize from α/β-tubulin dimers."
+  },
+  {
+    "id": 5,
+    "subject": "Botany",
+    "question": "The function of smooth endoplasmic reticulum is:",
+    "options": ["Protein synthesis", "Lipid synthesis", "ATP production", "Photosynthesis"],
+    "answer": "Lipid synthesis",
+    "difficulty": "Easy",
+    "explanation": "SER synthesizes lipids, steroids, and detoxifies drugs."
+  },
+  {
+    "id": 6,
+    "subject": "Botany",
+    "question": "Cristae are structures associated with:",
+    "options": ["Chloroplast", "Nucleus", "Mitochondria", "Golgi apparatus"],
+    "answer": "Mitochondria",
+    "difficulty": "Easy",
+    "explanation": "Cristae are the inner membrane folds of mitochondria."
+  },
+  {
+    "id": 7,
+    "subject": "Botany",
+    "question": "The “powerhouse” of the cell is called:",
+    "options": ["Lysosome", "Golgi body", "Mitochondria", "Ribosome"],
+    "answer": "Mitochondria",
+    "difficulty": "Easy",
+    "explanation": "Mitochondria generate ATP by oxidative phosphorylation."
+  },
+  {
+    "id": 8,
+    "subject": "Botany",
+    "question": "The semi-permeable nature of plasma membrane is due to:",
+    "options": ["Phospholipid bilayer", "Peripheral proteins", "Carbohydrates", "Cholesterol"],
+    "answer": "Phospholipid bilayer",
+    "difficulty": "Easy",
+    "explanation": "The lipid bilayer limits passage of polar/charged molecules, conferring semi-permeability."
+  },
+  {
+    "id": 9,
+    "subject": "Botany",
+    "question": "The cell wall of fungi is made of:",
+    "options": ["Cellulose", "Chitin", "Pectin", "Lignin"],
+    "answer": "Chitin",
+    "difficulty": "Easy",
+    "explanation": "Fungal walls contain chitin (N-acetylglucosamine polymer)."
+  },
+  {
+    "id": 10,
+    "subject": "Botany",
+    "question": "Ribosomes were first discovered by:",
+    "options": ["Palade", "Schwann", "Hooke", "de Duve"],
+    "answer": "Palade",
+    "difficulty": "Easy",
+    "explanation": "George E. Palade identified ribosomes using electron microscopy."
+  },
+  {
+    "id": 11,
+    "subject": "Botany",
+    "question": "Which of the following has its own ribosomes and DNA?",
+    "options": ["Lysosome", "Mitochondria", "Ribosome", "Centriole"],
+    "answer": "Mitochondria",
+    "difficulty": "Easy",
+    "explanation": "Mitochondria have circular DNA and 70S ribosomes."
+  },
+  {
+    "id": 12,
+    "subject": "Botany",
+    "question": "The Golgi apparatus is primarily involved in:",
+    "options": ["Protein modification and packaging", "Energy production", "Transcription", "DNA repair"],
+    "answer": "Protein modification and packaging",
+    "difficulty": "Easy",
+    "explanation": "Golgi modifies proteins (glycosylation, sorting) and packages them into vesicles."
+  },
+  {
+    "id": 13,
+    "subject": "Botany",
+    "question": "The cell theory does not apply to:",
+    "options": ["Plants", "Animals", "Viruses", "Bacteria"],
+    "answer": "Viruses",
+    "difficulty": "Easy",
+    "explanation": "Viruses lack cellular organization; they are acellular particles."
+  },
+  {
+    "id": 14,
+    "subject": "Botany",
+    "question": "The nucleolus is mainly concerned with:",
+    "options": ["DNA replication", "Ribosome synthesis", "mRNA formation", "ATP generation"],
+    "answer": "Ribosome synthesis",
+    "difficulty": "Easy",
+    "explanation": "The nucleolus assembles rRNA and ribosomal subunits."
+  },
+  {
+    "id": 15,
+    "subject": "Botany",
+    "question": "Fluid mosaic model describes:",
+    "options": ["Cell wall", "Plasma membrane", "Mitochondria", "Chloroplast"],
+    "answer": "Plasma membrane",
+    "difficulty": "Easy",
+    "explanation": "Singer–Nicolson model: a fluid lipid bilayer with embedded proteins."
+  },
+  {
+    "id": 16,
+    "subject": "Botany",
+    "question": "The site of protein synthesis is:",
+    "options": ["Ribosome", "Golgi body", "ER lumen", "Lysosome"],
+    "answer": "Ribosome",
+    "difficulty": "Easy",
+    "explanation": "Ribosomes translate mRNA into polypeptides."
+  },
+  {
+    "id": 17,
+    "subject": "Botany",
+    "question": "The chromatin which is transcriptionally active is:",
+    "options": ["Heterochromatin", "Euchromatin", "Both", "None"],
+    "answer": "Euchromatin",
+    "difficulty": "Easy",
+    "explanation": "Euchromatin is loosely packed and accessible to transcription machinery."
+  },
+  {
+    "id": 18,
+    "subject": "Botany",
+    "question": "The centrosome is absent in:",
+    "options": ["Animal cells", "Plant cells", "Fungal cells", "Protozoans"],
+    "answer": "Plant cells",
+    "difficulty": "Easy",
+    "explanation": "Higher plants lack centrioles/centrosomes; they form spindles via MTOCs."
+  },
+  {
+    "id": 19,
+    "subject": "Botany",
+    "question": "The plasma membrane model of Danielli and Davson was later replaced because it:",
+    "options": ["Ignored proteins", "Ignored lipids", "Ignored fluidity", "Ignored carbohydrates"],
+    "answer": "Ignored fluidity",
+    "difficulty": "Medium",
+    "explanation": "It proposed static protein–lipid–protein layers; the fluid mosaic model incorporates membrane fluidity."
+  },
+  {
+    "id": 20,
+    "subject": "Botany",
+    "question": "The lysosomes are known as:",
+    "options": ["Protein factory", "Powerhouse", "Suicidal bag", "Packaging center"],
+    "answer": "Suicidal bag",
+    "difficulty": "Easy",
+    "explanation": "Lysosomes contain hydrolytic enzymes; rupture can digest the cell."
+  },
+  {
+    "id": 21,
+    "subject": "Botany",
+    "question": "The law of segregation was proposed by:",
+    "options": ["Darwin", "Lamarck", "Mendel", "Morgan"],
+    "answer": "Mendel",
+    "difficulty": "Easy",
+    "explanation": "Mendel’s first law states allele pairs separate during gamete formation."
+  },
+  {
+    "id": 22,
+    "subject": "Botany",
+    "question": "Incomplete dominance is shown in:",
+    "options": ["Pea plant", "Mirabilis jalapa", "Drosophila", "Maize"],
+    "answer": "Mirabilis jalapa",
+    "difficulty": "Easy",
+    "explanation": "Four o’clock plant shows pink F1 from red × white—an intermediate phenotype."
+  },
+  {
+    "id": 23,
+    "subject": "Botany",
+    "question": "The ratio in dihybrid cross under independent assortment is:",
+    "options": ["9:3:3:1", "1:2:1", "3:1", "1:1"],
+    "answer": "9:3:3:1",
+    "difficulty": "Easy",
+    "explanation": "Mendel’s dihybrid cross yields 9:3:3:1 phenotypic ratio in F2."
+  },
+  {
+    "id": 24,
+    "subject": "Botany",
+    "question": "Crossing over occurs during:",
+    "options": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase I"],
+    "answer": "Prophase I",
+    "difficulty": "Easy",
+    "explanation": "Homologous recombination occurs in pachytene of prophase I."
+  },
+  {
+    "id": 25,
+    "subject": "Botany",
+    "question": "A test cross helps to determine:",
+    "options": ["Genotype", "Phenotype", "Hybrid vigor", "Mutation rate"],
+    "answer": "Genotype",
+    "difficulty": "Easy",
+    "explanation": "Crossing with a homozygous recessive reveals the unknown genotype."
+  },
+  {
+    "id": 26,
+    "subject": "Botany",
+    "question": "The chromosome theory of inheritance was proposed by:",
+    "options": ["Sutton and Boveri", "Mendel", "Watson and Crick", "Beadle and Tatum"],
+    "answer": "Sutton and Boveri",
+    "difficulty": "Easy",
+    "explanation": "They correlated Mendelian factors with chromosomes."
+  },
+  {
+    "id": 27,
+    "subject": "Botany",
+    "question": "The number of linkage groups in humans is:",
+    "options": ["23", "22", "46", "44"],
+    "answer": "23",
+    "difficulty": "Easy",
+    "explanation": "Linkage groups equal the haploid number of chromosomes (n = 23)."
+  },
+  {
+    "id": 28,
+    "subject": "Botany",
+    "question": "A woman with genotype X^D X^d marries a normal man. What is the probability of affected sons?",
+    "options": ["0%", "25%", "50%", "100%"],
+    "answer": "50%",
+    "difficulty": "Medium",
+    "explanation": "Each son inherits Y from father and X from mother; 50% chance of receiving the affected X^D."
+  },
+  {
+    "id": 29,
+    "subject": "Botany",
+    "question": "The distance between genes on a chromosome is measured in:",
+    "options": ["Morgans", "Centimorgans", "Picometers", "Kilobases"],
+    "answer": "Centimorgans",
+    "difficulty": "Easy",
+    "explanation": "1 cM ≈ 1% recombination frequency."
+  },
+  {
+    "id": 30,
+    "subject": "Botany",
+    "question": "Mutations that occur naturally are called:",
+    "options": ["Induced", "Spontaneous", "Artificial", "Chromosomal"],
+    "answer": "Spontaneous",
+    "difficulty": "Easy",
+    "explanation": "Arise without deliberate exposure to mutagens."
+  },
+  {
+    "id": 31,
+    "subject": "Botany",
+    "question": "Point mutation involves:",
+    "options": ["Addition of a gene", "Substitution of a single base", "Loss of chromosome", "Duplication"],
+    "answer": "Substitution of a single base",
+    "difficulty": "Easy",
+    "explanation": "Point mutation changes one nucleotide base pair."
+  },
+  {
+    "id": 32,
+    "subject": "Botany",
+    "question": "A monohybrid cross gives what genotypic ratio?",
+    "options": ["1:2:1", "3:1", "9:3:3:1", "1:1"],
+    "answer": "1:2:1",
+    "difficulty": "Easy",
+    "explanation": "Genotypes in F2 segregate as AA:Aa:aa = 1:2:1."
+  },
+  {
+    "id": 33,
+    "subject": "Botany",
+    "question": "A back cross is a cross between:",
+    "options": ["Two F1 hybrids", "F1 and recessive parent", "Two parents", "F1 and F2"],
+    "answer": "F1 and recessive parent",
+    "difficulty": "Medium",
+    "explanation": "Often used to recover parental traits; with recessive parent it’s also a test cross."
+  },
+  {
+    "id": 34,
+    "subject": "Botany",
+    "question": "A mutagen that causes thymine dimer formation is:",
+    "options": ["UV radiation", "X-rays", "Nitrous acid", "Mustard gas"],
+    "answer": "UV radiation",
+    "difficulty": "Easy",
+    "explanation": "UV induces pyrimidine dimers, especially T–T."
+  },
+  {
+    "id": 35,
+    "subject": "Botany",
+    "question": "The observable expression of a gene is:",
+    "options": ["Genotype", "Phenotype", "Allele", "Trait"],
+    "answer": "Phenotype",
+    "difficulty": "Easy",
+    "explanation": "Phenotype is the expressed, observable characteristic."
+  },
+  {
+    "id": 36,
+    "subject": "Botany",
+    "question": "The concept of “one gene–one enzyme” was given by:",
+    "options": ["Beadle and Tatum", "Watson", "Mendel", "Morgan"],
+    "answer": "Beadle and Tatum",
+    "difficulty": "Easy",
+    "explanation": "From Neurospora experiments linking genes to specific enzymes."
+  },
+  {
+    "id": 37,
+    "subject": "Botany",
+    "question": "Trisomy 21 causes:",
+    "options": ["Turner’s syndrome", "Down’s syndrome", "Klinefelter’s", "Edward’s"],
+    "answer": "Down’s syndrome",
+    "difficulty": "Easy",
+    "explanation": "An extra chromosome 21."
+  },
+  {
+    "id": 38,
+    "subject": "Botany",
+    "question": "During meiosis, non-disjunction causes:",
+    "options": ["Polyploidy", "Aneuploidy", "Mutation", "Deletion"],
+    "answer": "Aneuploidy",
+    "difficulty": "Easy",
+    "explanation": "Failure to separate leads to abnormal chromosome numbers."
+  },
+  {
+    "id": 39,
+    "subject": "Botany",
+    "question": "A mutation that does not affect the amino acid sequence is called:",
+    "options": ["Missense", "Nonsense", "Silent", "Frameshift"],
+    "answer": "Silent",
+    "difficulty": "Easy",
+    "explanation": "Codon change codes for the same amino acid (degeneracy of code)."
+  },
+  {
+    "id": 40,
+    "subject": "Botany",
+    "question": "The DNA replication is:",
+    "options": ["Conservative", "Dispersive", "Semiconservative", "Progressive"],
+    "answer": "Semiconservative",
+    "difficulty": "Easy",
+    "explanation": "Each daughter DNA has one parental and one new strand (Meselson–Stahl)."
+  },
+  {
+    "id": 41,
+    "subject": "Botany",
+    "question": "Xylem is responsible for the transport of:",
+    "options": ["Food", "Water", "Hormones", "Amino acids"],
+    "answer": "Water",
+    "difficulty": "Easy",
+    "explanation": "Xylem conducts water and minerals from roots to shoots."
+  },
+  {
+    "id": 42,
+    "subject": "Botany",
+    "question": "Companion cells are found associated with:",
+    "options": ["Xylem", "Phloem", "Collenchyma", "Sclerenchyma"],
+    "answer": "Phloem",
+    "difficulty": "Easy",
+    "explanation": "Companion cells support sieve tube elements in angiosperms."
+  },
+  {
+    "id": 43,
+    "subject": "Botany",
+    "question": "The meristem present at tips of roots and shoots is called:",
+    "options": ["Apical", "Intercalary", "Lateral", "Permanent"],
+    "answer": "Apical",
+    "difficulty": "Easy",
+    "explanation": "Apical meristems drive primary growth in length."
+  },
+  {
+    "id": 44,
+    "subject": "Botany",
+    "question": "Secondary growth occurs in:",
+    "options": ["Monocots", "Dicots", "Algae", "Moss"],
+    "answer": "Dicots",
+    "difficulty": "Easy",
+    "explanation": "Most dicot stems/roots have vascular cambium causing secondary growth."
+  },
+  {
+    "id": 45,
+    "subject": "Botany",
+    "question": "Annual rings are formed due to:",
+    "options": ["Primary xylem", "Secondary xylem", "Phloem", "Cork"],
+    "answer": "Secondary xylem",
+    "difficulty": "Easy",
+    "explanation": "Seasonal activity of vascular cambium produces early and late wood rings."
+  },
+  {
+    "id": 46,
+    "subject": "Botany",
+    "question": "The Casparian strip is found in:",
+    "options": ["Epidermis", "Endodermis", "Cortex", "Pericycle"],
+    "answer": "Endodermis",
+    "difficulty": "Easy",
+    "explanation": "Suberin bands in endodermal walls block apoplastic flow."
+  },
+  {
+    "id": 47,
+    "subject": "Botany",
+    "question": "The xylem element living at maturity is:",
+    "options": ["Tracheid", "Vessel", "Xylem parenchyma", "Xylem fiber"],
+    "answer": "Xylem parenchyma",
+    "difficulty": "Easy",
+    "explanation": "Parenchyma cells remain alive; tracheary elements are dead at maturity."
+  },
+  {
+    "id": 48,
+    "subject": "Botany",
+    "question": "Lenticels are involved in:",
+    "options": ["Water transport", "Gaseous exchange", "Food conduction", "Secondary thickening"],
+    "answer": "Gaseous exchange",
+    "difficulty": "Easy",
+    "explanation": "Lenticels permit gas exchange in periderm."
+  },
+  {
+    "id": 49,
+    "subject": "Botany",
+    "question": "The cork cambium gives rise to:",
+    "options": ["Pericycle", "Phellogen", "Phellem", "Phloem"],
+    "answer": "Phellem",
+    "difficulty": "Easy",
+    "explanation": "Cork cambium (phellogen) produces phellem (cork) outward and phelloderm inward."
+  },
+  {
+    "id": 50,
+    "subject": "Botany",
+    "question": "Collenchyma provides:",
+    "options": ["Mechanical support", "Storage", "Transport", "Photosynthesis"],
+    "answer": "Mechanical support",
+    "difficulty": "Easy",
+    "explanation": "Unevenly thickened walls provide flexible support in growing organs."
+  },
+  {
+    "id": 51,
+    "subject": "Botany",
+    "question": "The apical meristem originates from:",
+    "options": ["Permanent tissue", "Embryonic cells", "Lateral meristem", "Secondary xylem"],
+    "answer": "Embryonic cells",
+    "difficulty": "Easy",
+    "explanation": "Apical meristem descends from embryonic tissues of the plant."
+  },
+  {
+    "id": 52,
+    "subject": "Botany",
+    "question": "The periderm replaces:",
+    "options": ["Cortex", "Epidermis", "Xylem", "Phloem"],
+    "answer": "Epidermis",
+    "difficulty": "Easy",
+    "explanation": "In woody stems, periderm substitutes the ruptured epidermis."
+  },
+  {
+    "id": 53,
+    "subject": "Botany",
+    "question": "Sclerenchyma is made up of:",
+    "options": ["Living cells", "Dead cells", "Parenchyma", "Collenchyma"],
+    "answer": "Dead cells",
+    "difficulty": "Easy",
+    "explanation": "Sclerenchyma cells are lignified and dead at maturity (fibers, sclereids)."
+  },
+  {
+    "id": 54,
+    "subject": "Botany",
+    "question": "The vascular bundles in monocot stem are:",
+    "options": ["Conjoint and closed", "Radial", "Open", "Amphivasal"],
+    "answer": "Conjoint and closed",
+    "difficulty": "Easy",
+    "explanation": "Monocot bundles lack cambium (closed) and have xylem and phloem together (conjoint)."
+  },
+  {
+    "id": 55,
+    "subject": "Botany",
+    "question": "The sieve tube elements lack:",
+    "options": ["Nucleus", "Cytoplasm", "Pits", "Perforation plate"],
+    "answer": "Nucleus",
+    "difficulty": "Easy",
+    "explanation": "Mature sieve tubes are enucleate but retain thin cytoplasm."
+  },
+  {
+    "id": 56,
+    "subject": "Botany",
+    "question": "Heartwood differs from sapwood in having:",
+    "options": ["More moisture", "Function in conduction", "Dead and lignified cells", "Less color"],
+    "answer": "Dead and lignified cells",
+    "difficulty": "Medium",
+    "explanation": "Heartwood is darker, drier, non-conducting due to deposition of resins/tannins."
+  },
+  {
+    "id": 57,
+    "subject": "Botany",
+    "question": "Intercalary meristem is responsible for:",
+    "options": ["Branch growth", "Leaf elongation", "Secondary thickening", "Root formation"],
+    "answer": "Leaf elongation",
+    "difficulty": "Easy",
+    "explanation": "Found at bases of leaves/internodes (e.g., grasses) promoting elongation."
+  },
+  {
+    "id": 58,
+    "subject": "Botany",
+    "question": "The cambium responsible for secondary xylem formation is:",
+    "options": ["Phellogen", "Vascular cambium", "Apical meristem", "Intercalary meristem"],
+    "answer": "Vascular cambium",
+    "difficulty": "Easy",
+    "explanation": "Vascular cambium produces secondary xylem inward and phloem outward."
+  },
+  {
+    "id": 59,
+    "subject": "Botany",
+    "question": "Resin and tannins are found in:",
+    "options": ["Cortex", "Pith", "Heartwood", "Phloem"],
+    "answer": "Heartwood",
+    "difficulty": "Easy",
+    "explanation": "Deposited substances like resins/tannins accumulate in heartwood."
+  },
+  {
+    "id": 60,
+    "subject": "Botany",
+    "question": "The outermost layer of root is:",
+    "options": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+    "answer": "Epidermis",
+    "difficulty": "Easy",
+    "explanation": "Also called epiblema/piliferous layer in roots."
+  },
+  {
+    "id": 61,
+    "subject": "Zoology",
+    "question": "The pacemaker of the heart is:",
+    "options": ["AV node", "SA node", "Purkinje fiber", "Bundle of His"],
+    "answer": "SA node",
+    "difficulty": "Easy",
+    "explanation": "Sinoatrial node initiates the heartbeat rhythm."
+  },
+  {
+    "id": 62,
+    "subject": "Zoology",
+    "question": "The functional unit of kidney is:",
+    "options": ["Glomerulus", "Nephron", "Loop of Henle", "Tubule"],
+    "answer": "Nephron",
+    "difficulty": "Easy",
+    "explanation": "Each nephron filters blood and forms urine."
+  },
+  {
+    "id": 63,
+    "subject": "Zoology",
+    "question": "Which part of brain controls respiration?",
+    "options": ["Cerebellum", "Medulla oblongata", "Pons", "Cerebrum"],
+    "answer": "Medulla oblongata",
+    "difficulty": "Easy",
+    "explanation": "Medullary respiratory centers regulate breathing."
+  },
+  {
+    "id": 64,
+    "subject": "Zoology",
+    "question": "The largest gland in human body is:",
+    "options": ["Liver", "Pancreas", "Thyroid", "Adrenal"],
+    "answer": "Liver",
+    "difficulty": "Easy",
+    "explanation": "Liver is the largest internal gland."
+  },
+  {
+    "id": 65,
+    "subject": "Zoology",
+    "question": "Insulin is secreted by:",
+    "options": ["Alpha cells", "Beta cells", "Delta cells", "Acinar cells"],
+    "answer": "Beta cells",
+    "difficulty": "Easy",
+    "explanation": "β-cells of pancreatic islets secrete insulin."
+  },
+  {
+    "id": 66,
+    "subject": "Zoology",
+    "question": "The smallest bone in human body is:",
+    "options": ["Stapes", "Malleus", "Incus", "Humerus"],
+    "answer": "Stapes",
+    "difficulty": "Easy",
+    "explanation": "The stapes in the middle ear is the tiniest bone."
+  },
+  {
+    "id": 67,
+    "subject": "Zoology",
+    "question": "Which vitamin helps in clotting of blood?",
+    "options": ["A", "D", "E", "K"],
+    "answer": "K",
+    "difficulty": "Easy",
+    "explanation": "Vitamin K is needed to synthesize clotting factors."
+  },
+  {
+    "id": 68,
+    "subject": "Physics",
+    "question": "Which of the following is a vector quantity?",
+    "options": ["Work", "Power", "Energy", "Pressure"],
+    "answer": "Power",
+    "difficulty": "Medium",
+    "explanation": "Power has both magnitude and direction."
+  },
+  {
+    "id": 69,
+    "subject": "Physics",
+    "question": "The SI unit of electric charge is:",
+    "options": ["Volt", "Coulomb", "Ampere", "Ohm"],
+    "answer": "Coulomb",
+    "difficulty": "Easy",
+    "explanation": "Electric charge is measured in Coulombs (C)."
+  },
+  {
+    "id": 70,
+    "subject": "Physics",
+    "question": "Which law states that current through a conductor is directly proportional to potential difference?",
+    "options": ["Coulomb’s law", "Faraday’s law", "Ohm’s law", "Kirchhoff’s law"],
+    "answer": "Ohm’s law",
+    "difficulty": "Medium",
+    "explanation": "Ohm’s law relates voltage, current, and resistance: V = IR."
+  },
+  {
+    "id": 71,
+    "subject": "Physics",
+    "question": "A resistor of 4Ω is connected to a 12V battery. The current flowing is:",
+    "options": ["1A", "2A", "3A", "4A"],
+    "answer": "3A",
+    "difficulty": "Easy",
+    "explanation": "By Ohm’s law, I = V/R = 12/4 = 3A."
+  },
+  {
+    "id": 72,
+    "subject": "Physics",
+    "question": "When two resistors of 6Ω and 3Ω are connected in parallel, the equivalent resistance is:",
+    "options": ["2Ω", "4Ω", "9Ω", "18Ω"],
+    "answer": "2Ω",
+    "difficulty": "Medium",
+    "explanation": "1/R = 1/6 + 1/3 = 1/2, hence R = 2Ω."
+  },
+  {
+    "id": 73,
+    "subject": "Physics",
+    "question": "The instrument used to detect electric current is called:",
+    "options": ["Voltmeter", "Galvanometer", "Ammeter", "Rheostat"],
+    "answer": "Galvanometer",
+    "difficulty": "Easy",
+    "explanation": "A galvanometer detects small electric currents."
+  },
+  {
+    "id": 74,
+    "subject": "Physics",
+    "question": "Magnetic flux is measured in:",
+    "options": ["Tesla", "Weber", "Gauss", "Henry"],
+    "answer": "Weber",
+    "difficulty": "Medium",
+    "explanation": "1 Weber (Wb) is the SI unit of magnetic flux."
+  },
+  {
+    "id": 75,
+    "subject": "Physics",
+    "question": "What happens to resistance when temperature of a conductor increases?",
+    "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+    "answer": "Increases",
+    "difficulty": "Easy",
+    "explanation": "For metals, resistance increases with temperature due to more collisions."
+  },
+  {
+    "id": 76,
+    "subject": "Physics",
+    "question": "According to Kirchhoff’s Current Law, the algebraic sum of currents at a junction is:",
+    "options": ["Zero", "Maximum", "Minimum", "Equal to voltage"],
+    "answer": "Zero",
+    "difficulty": "Medium",
+    "explanation": "Charge is conserved, so total incoming current equals outgoing current."
+  },
+  {
+    "id": 77,
+    "subject": "Physics",
+    "question": "Which device converts AC to DC?",
+    "options": ["Rectifier", "Amplifier", "Oscillator", "Transformer"],
+    "answer": "Rectifier",
+    "difficulty": "Medium",
+    "explanation": "Rectifiers use diodes to allow current to flow in one direction only."
+  },
+  {
+    "id": 78,
+    "subject": "Physics",
+    "question": "Heat is transferred without actual movement of molecules in:",
+    "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+    "answer": "Radiation",
+    "difficulty": "Medium",
+    "explanation": "Radiation transfers heat via electromagnetic waves without a medium."
+  },
+  {
+    "id": 79,
+    "subject": "Physics",
+    "question": "Temperature is a measure of:",
+    "options": ["Total energy", "Potential energy", "Kinetic energy of particles", "Momentum"],
+    "answer": "Kinetic energy of particles",
+    "difficulty": "Easy",
+    "explanation": "Temperature reflects average kinetic energy of molecules."
+  },
+  {
+    "id": 80,
+    "subject": "Physics",
+    "question": "Which law states that pressure is directly proportional to temperature for a fixed volume?",
+    "options": ["Boyle’s Law", "Charles’s Law", "Gay-Lussac’s Law", "Avogadro’s Law"],
+    "answer": "Gay-Lussac’s Law",
+    "difficulty": "Medium",
+    "explanation": "P ∝ T at constant volume, according to Gay-Lussac’s law."
+  },
+  {
+    "id": 81,
+    "subject": "Physics",
+    "question": "Specific heat capacity is defined as:",
+    "options": [
+      "Heat required to raise the temperature of 1 kg of a substance by 1°C",
+      "Heat released by 1 mole",
+      "Latent heat per gram",
+      "Rate of heat transfer"
+    ],
+    "answer": "Heat required to raise the temperature of 1 kg of a substance by 1°C",
+    "difficulty": "Medium",
+    "explanation": "It measures how much heat energy is needed to change temperature."
+  },
+  {
+    "id": 82,
+    "subject": "Physics",
+    "question": "The SI unit of thermal conductivity is:",
+    "options": ["J/kg·K", "W/m·K", "Cal/g·°C", "J/mol·K"],
+    "answer": "W/m·K",
+    "difficulty": "Medium",
+    "explanation": "Thermal conductivity measures rate of heat flow per unit area and temperature gradient."
+  },
+  {
+    "id": 83,
+    "subject": "Physics",
+    "question": "The amount of heat required to change solid to liquid without changing temperature is:",
+    "options": ["Specific heat", "Latent heat of fusion", "Latent heat of vaporization", "Conduction heat"],
+    "answer": "Latent heat of fusion",
+    "difficulty": "Easy",
+    "explanation": "Latent heat of fusion is the energy absorbed during melting at constant temperature."
+  },
+  {
+    "id": 84,
+    "subject": "Physics",
+    "question": "The efficiency of a Carnot engine depends on:",
+    "options": ["Type of gas", "Mass of piston", "Temperature of reservoirs", "Pressure difference"],
+    "answer": "Temperature of reservoirs",
+    "difficulty": "Medium",
+    "explanation": "Carnot efficiency = 1 - T₂/T₁, depends only on temperatures of hot and cold reservoirs."
+  },
+  {
+    "id": 85,
+    "subject": "Physics",
+    "question": "In thermodynamics, work done by the system is considered:",
+    "options": ["Positive", "Negative", "Zero", "Undefined"],
+    "answer": "Positive",
+    "difficulty": "Easy",
+    "explanation": "When system expands and does work, energy leaves system (positive)."
+  },
+  {
+    "id": 86,
+    "subject": "Physics",
+    "question": "Entropy of the universe tends to:",
+    "options": ["Decrease", "Increase", "Remain constant", "Oscillate"],
+    "answer": "Increase",
+    "difficulty": "Hard",
+    "explanation": "Second law of thermodynamics states entropy of universe always increases."
+  },
+  {
+    "id": 87,
+    "subject": "Physics",
+    "question": "A transformer works on which principle?",
+    "options": ["Static induction", "Mutual induction", "Self induction", "Electrostatic induction"],
+    "answer": "Mutual induction",
+    "difficulty": "Medium",
+    "explanation": "Transformers transfer energy between circuits via mutual induction."
+  },
+  {
+    "id": 88,
+    "subject": "Physics",
+    "question": "Which of the following is a vector quantity?",
+    "options": ["Work", "Power", "Energy", "Pressure"],
+    "answer": "Power",
+    "difficulty": "Medium",
+    "explanation": "Power has both magnitude and direction."
+  },
+  {
+    "id": 89,
+    "subject": "Physics",
+    "question": "The SI unit of electric charge is:",
+    "options": ["Volt", "Coulomb", "Ampere", "Ohm"],
+    "answer": "Coulomb",
+    "difficulty": "Easy",
+    "explanation": "Electric charge is measured in Coulombs (C)."
+  },
+  {
+    "id": 90,
+    "subject": "Physics",
+    "question": "Which law states that current through a conductor is directly proportional to potential difference?",
+    "options": ["Coulomb’s law", "Faraday’s law", "Ohm’s law", "Kirchhoff’s law"],
+    "answer": "Ohm’s law",
+    "difficulty": "Medium",
+    "explanation": "Ohm’s law relates voltage, current, and resistance: V = IR."
+  },
+  {
+    "id": 91,
+    "subject": "Physics",
+    "question": "A resistor of 4Ω is connected to a 12V battery. The current flowing is:",
+    "options": ["1A", "2A", "3A", "4A"],
+    "answer": "3A",
+    "difficulty": "Easy",
+    "explanation": "By Ohm’s law, I = V/R = 12/4 = 3A."
+  },
+  {
+    "id": 92,
+    "subject": "Physics",
+    "question": "When two resistors of 6Ω and 3Ω are connected in parallel, the equivalent resistance is:",
+    "options": ["2Ω", "4Ω", "9Ω", "18Ω"],
+    "answer": "2Ω",
+    "difficulty": "Medium",
+    "explanation": "1/R = 1/6 + 1/3 = 1/2, hence R = 2Ω."
+  },
+  {
+    "id": 93,
+    "subject": "Physics",
+    "question": "The instrument used to detect electric current is called:",
+    "options": ["Voltmeter", "Galvanometer", "Ammeter", "Rheostat"],
+    "answer": "Galvanometer",
+    "difficulty": "Easy",
+    "explanation": "A galvanometer detects small electric currents."
+  },
+  {
+    "id": 94,
+    "subject": "Physics",
+    "question": "Magnetic flux is measured in:",
+    "options": ["Tesla", "Weber", "Gauss", "Henry"],
+    "answer": "Weber",
+    "difficulty": "Medium",
+    "explanation": "1 Weber (Wb) is the SI unit of magnetic flux."
+  },
+  {
+    "id": 95,
+    "subject": "Physics",
+    "question": "What happens to resistance when temperature of a conductor increases?",
+    "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+    "answer": "Increases",
+    "difficulty": "Easy",
+    "explanation": "For metals, resistance increases with temperature due to more collisions."
+  },
+  {
+    "id": 96,
+    "subject": "Physics",
+    "question": "According to Kirchhoff’s Current Law, the algebraic sum of currents at a junction is:",
+    "options": ["Zero", "Maximum", "Minimum", "Equal to voltage"],
+    "answer": "Zero",
+    "difficulty": "Medium",
+    "explanation": "Charge is conserved, so total incoming current equals outgoing current."
+  },
+  {
+    "id": 97,
+    "subject": "Physics",
+    "question": "Which device converts AC to DC?",
+    "options": ["Rectifier", "Amplifier", "Oscillator", "Transformer"],
+    "answer": "Rectifier",
+    "difficulty": "Medium",
+    "explanation": "Rectifiers use diodes to allow current to flow in one direction only."
+  },
+  {
+    "id": 98,
+    "subject": "Physics",
+    "question": "Heat is transferred without actual movement of molecules in:",
+    "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+    "answer": "Radiation",
+    "difficulty": "Medium",
+    "explanation": "Radiation transfers heat via electromagnetic waves without a medium."
+  },
+  {
+    "id": 99,
+    "subject": "Physics",
+    "question": "Temperature is a measure of:",
+    "options": ["Total energy", "Potential energy", "Kinetic energy of particles", "Momentum"],
+    "answer": "Kinetic energy of particles",
+    "difficulty": "Easy",
+    "explanation": "Temperature reflects average kinetic energy of molecules."
+  },
+  {
+    "id": 100,
+    "subject": "Physics",
+    "question": "Which law states that pressure is directly proportional to temperature for a fixed volume?",
+    "options": ["Boyle’s Law", "Charles’s Law", "Gay-Lussac’s Law", "Avogadro’s Law"],
+    "answer": "Gay-Lussac’s Law",
+    "difficulty": "Medium",
+    "explanation": "P ∝ T at constant volume, according to Gay-Lussac’s law."
+  },
+  {
+    "id": 101,
+    "subject": "Physics",
+    "question": "Specific heat capacity is defined as:",
+    "options": [
+      "Heat required to raise the temperature of 1 kg of a substance by 1°C",
+      "Heat released by 1 mole",
+      "Latent heat per gram",
+      "Rate of heat transfer"
+    ],
+    "answer": "Heat required to raise the temperature of 1 kg of a substance by 1°C",
+    "difficulty": "Medium",
+    "explanation": "It measures how much heat energy is needed to change temperature."
+  },
+  {
+    "id": 102,
+    "subject": "Physics",
+    "question": "The SI unit of thermal conductivity is:",
+    "options": ["J/kg·K", "W/m·K", "Cal/g·°C", "J/mol·K"],
+    "answer": "W/m·K",
+    "difficulty": "Medium",
+    "explanation": "Thermal conductivity measures rate of heat flow per unit area and temperature gradient."
+  },
+  {
+    "id": 103,
+    "subject": "Physics",
+    "question": "The amount of heat required to change solid to liquid without changing temperature is:",
+    "options": ["Specific heat", "Latent heat of fusion", "Latent heat of vaporization", "Conduction heat"],
+    "answer": "Latent heat of fusion",
+    "difficulty": "Easy",
+    "explanation": "Latent heat of fusion is the energy absorbed during melting at constant temperature."
+  },
+  {
+    "id": 104,
+    "subject": "Physics",
+    "question": "The efficiency of a Carnot engine depends on:",
+    "options": ["Type of gas", "Mass of piston", "Temperature of reservoirs", "Pressure difference"],
+    "answer": "Temperature of reservoirs",
+    "difficulty": "Medium",
+    "explanation": "Carnot efficiency = 1 - T₂/T₁, depends only on temperatures of hot and cold reservoirs."
+  },
+  {
+    "id": 105,
+    "subject": "Physics",
+    "question": "In thermodynamics, work done by the system is considered:",
+    "options": ["Positive", "Negative", "Zero", "Undefined"],
+    "answer": "Positive",
+    "difficulty": "Easy",
+    "explanation": "When system expands and does work, energy leaves system (positive)."
+  },
+  {
+    "id": 106,
+    "subject": "Physics",
+    "question": "Entropy of the universe tends to:",
+    "options": ["Decrease", "Increase", "Remain constant", "Oscillate"],
+    "answer": "Increase",
+    "difficulty": "Hard",
+    "explanation": "Second law of thermodynamics states entropy of universe always increases."
+  },
+  {
+    "id": 107,
+    "subject": "Physics",
+    "question": "A transformer works on which principle?",
+    "options": ["Static induction", "Mutual induction", "Self induction", "Electrostatic induction"],
+    "answer": "Mutual induction",
+    "difficulty": "Medium",
+    "explanation": "Transformers transfer energy between circuits via mutual induction."
+  },
+  {
+    "id": 108,
+    "subject": "Zoology",
+    "question": "Which vitamin helps in clotting of blood?",
+    "options": ["A", "D", "E", "K"],
+    "answer": "K",
+    "difficulty": "Easy",
+    "explanation": "Vitamin K is needed to synthesize clotting factors."
+  },
+  {
+    "id": 109,
+    "subject": "Organic Chemistry",
+    "question": "The hybridization of carbon in methane is",
+    "options": ["$sp^{3}$", "$sp^{2}$", "sp", "$dsp^{2}$"],
+    "answer": "$sp^{3}$"
+  },
+  {
+    "id": 110,
+    "subject": "Organic Chemistry",
+    "question": "The IUPAC name of $CH_{3}-CH_{2}-CH_{3}$ is",
+    "options": ["propane", "butane", "ethane", "pentane"],
+    "answer": "propane"
+  },
+  {
+    "id": 111,
+    "subject": "Organic Chemistry",
+    "question": "Isomers having same molecular formula but different functional groups are",
+    "options": ["functional isomers", "chain isomers", "positional isomers", "metamers"],
+    "answer": "functional isomers"
+  },
+  {
+    "id": 112,
+    "subject": "Organic Chemistry",
+    "question": "The general formula of alkanes is",
+    "options": ["$C_{n}H_{2n+2}$", "$C_{n}H_{2n}$", "$C_{n}H_{2n-2}$", "none"],
+    "answer": "$C_{n}H_{2n+2}$"
+  },
+  {
+    "id": 113,
+    "subject": "Organic Chemistry",
+    "question": "The product of complete combustion of ethane is",
+    "options": ["$CO_{2}+H_{2}O$", "$CO+H_{2}O$", "$C+H_{2}$", "$CH_{4}$"],
+    "answer": "$CO_{2}+H_{2}O$"
+  },
+  {
+    "id": 114,
+    "subject": "Organic Chemistry",
+    "question": "The reaction of ethene with HBr gives",
+    "options": ["bromoethane", "1,2-dibromoethane", "ethyne", "ethanol"],
+    "answer": "bromoethane"
+  },
+  {
+    "id": 115,
+    "subject": "Organic Chemistry",
+    "question": "The hybridization of carbon in ethene is",
+    "options": ["$sp^{2}$", "$sp^{3}$", "sp", "$dsp^{2}$"],
+    "answer": "$sp^{2}$"
+  },
+  {
+    "id": 116,
+    "subject": "Organic Chemistry",
+    "question": "Benzene is",
+    "options": ["aromatic", "aliphatic", "alicyclic", "non-aromatic"],
+    "answer": "aromatic"
+  },
+  {
+    "id": 117,
+    "subject": "Organic Chemistry",
+    "question": "The reaction of benzene with $Cl_{2}$ in presence of $FeCl_{3}$ gives",
+    "options": ["chlorobenzene", "benzyl chloride", "dichlorobenzene", "benzyl alcohol"],
+    "answer": "chlorobenzene"
+  },
+  {
+    "id": 118,
+    "subject": "Organic Chemistry",
+    "question": "Markovnikov's rule applies to",
+    "options": ["addition of HX to alkenes", "substitution reactions", "elimination reactions", "oxidation"],
+    "answer": "addition of HX to alkenes"
+  },
+  {
+    "id": 119,
+    "subject": "Organic Chemistry",
+    "question": "The product obtained when ethyl alcohol is heated with concentrated $H_{2}SO_{4}$ at $170^{\circ}C$ is",
+    "options": ["ethene", "ether", "ethane", "ethyl hydrogen sulfate"],
+    "answer": "ethene"
+  },
+  {
+    "id": 120,
+    "subject": "Organic Chemistry",
+    "question": "The compound showing geometrical isomerism is",
+    "options": ["2-butene", "1-butene", "ethene", "2-methylpropene"],
+    "answer": "2-butene"
+  },
+  {
+    "id": 121,
+    "subject": "Organic Chemistry",
+    "question": "The reagent used to convert alcohols to aldehydes is",
+    "options": ["PCC", "$LiAlH_{4}$", "$H_{2}/Pt$", "$KMnO_{4}$ (conc.)"],
+    "answer": "PCC"
+  },
+  {
+    "id": 122,
+    "subject": "Organic Chemistry",
+    "question": "Which of the following gives a positive iodoform test?",
+    "options": ["ethanol", "methanol", "propan-1-ol", "2-propanol"],
+    "answer": "2-propanol"
+  },
+  {
+    "id": 123,
+    "subject": "Organic Chemistry",
+    "question": "Formalin is an aqueous solution of",
+    "options": ["formaldehyde", "acetaldehyde", "acetic acid", "formic acid"],
+    "answer": "formaldehyde"
+  },
+  {
+    "id": 124,
+    "subject": "Organic Chemistry",
+    "question": "Aldehydes are oxidized to",
+    "options": ["acids", "alcohols", "ketones", "esters"],
+    "answer": "acids"
+  },
+  {
+    "id": 125,
+    "subject": "Organic Chemistry",
+    "question": "Reduction of aldehydes yields",
+    "options": ["primary alcohols", "secondary alcohols", "tertiary alcohols", "alkanes"],
+    "answer": "primary alcohols"
+  },
+  {
+    "id": 126,
+    "subject": "Organic Chemistry",
+    "question": "Fehling's solution is used to distinguish between",
+    "options": ["aldehydes and ketones", "acids and esters", "alcohols and ethers", "alkanes and alkenes"],
+    "answer": "aldehydes and ketones"
+  },
+  {
+    "id": 127,
+    "subject": "Organic Chemistry",
+    "question": "Acetic acid reacts with ethanol in presence of conc. $H_{2}SO_{4}$ to form",
+    "options": ["ethyl acetate", "ethyl alcohol", "ethyl chloride", "acetone"],
+    "answer": "ethyl acetate"
+  },
+  {
+    "id": 128,
+    "subject": "Organic Chemistry",
+    "question": "The functional group in aldehydes is",
+    "options": ["-CHO", "-COOH", "-OH", "-CO-"],
+    "answer": "-CHO"
+  },
+  {
+    "id": 129,
+    "subject": "Organic Chemistry",
+    "question": "The functional group in carboxylic acids is",
+    "options": ["-COOH", "-CHO", "-OH", "-CO-"],
+    "answer": "-COOH"
+  },
+  {
+    "id": 130,
+    "subject": "Organic Chemistry",
+    "question": "The compound used as antifreeze in automobile radiators is",
+    "options": ["ethylene glycol", "methanol", "ethanol", "acetone"],
+    "answer": "ethylene glycol"
+  },
+  {
+    "id": 131,
+    "subject": "Organic Chemistry",
+    "question": "Glycerol is",
+    "options": ["trihydric alcohol", "dihydric alcohol", "monohydric alcohol", "aldehyde"],
+    "answer": "trihydric alcohol"
+  },
+  {
+    "id": 132,
+    "subject": "Organic Chemistry",
+    "question": "The dehydration of alcohol gives",
+    "options": ["alkenes", "aldehydes", "ethers", "ketones"],
+    "answer": "alkenes"
+  },
+  {
+    "id": 133,
+    "subject": "Organic Chemistry",
+    "question": "Methanoic acid is also called",
+    "options": ["formic acid", "acetic acid", "propanoic acid", "butanoic acid"],
+    "answer": "formic acid"
+  },
+  {
+    "id": 134,
+    "subject": "Organic Chemistry",
+    "question": "Which of the following is an aromatic acid?",
+    "options": ["benzoic acid", "formic acid", "acetic acid", "lactic acid"],
+    "answer": "benzoic acid"
+  },
+  {
+    "id": 135,
+    "subject": "Organic Chemistry",
+    "question": "When an alkyl halide reacts with alcoholic KOH, the product is",
+    "options": ["alkene", "alcohol", "ether", "aldehyde"],
+    "answer": "alkene"
+  },
+  {
+    "id": 136,
+    "subject": "Organic Chemistry",
+    "question": "Which of the following is a secondary alcohol?",
+    "options": ["isopropyl alcohol", "ethanol", "methanol", "n-propyl alcohol"],
+    "answer": "isopropyl alcohol"
+  },
+  {
+    "id": 137,
+    "subject": "Organic Chemistry",
+    "question": "The main product in the dehydration of 2-butanol is",
+    "options": ["2-butene", "1-butene", "butanone", "ethene"],
+    "answer": "2-butene"
+  },
+  {
+    "id": 138,
+    "subject": "Organic Chemistry",
+    "question": "When ethyl chloride reacts with aqueous KOH, it forms",
+    "options": ["ethanol", "ethene", "ethane", "ether"],
+    "answer": "ethanol"
+  },
+  {
+    "id": 139,
+    "subject": "Organic Chemistry",
+    "question": "The hydrolysis of an ester in acidic medium gives",
+    "options": ["acid and alcohol", "aldehyde and alcohol", "ketone and alcohol", "acid and ether"],
+    "answer": "acid and alcohol"
+  },
+  {
+    "id": 140,
+    "subject": "Organic Chemistry",
+    "question": "The conversion of alcohol to alkyl chloride is done using",
+    "options": ["thionyl chloride", "conc. $H_{2}SO_{4}$", "KOH", "NaOH"],
+    "answer": "thionyl chloride"
+  },
+  {
+    "id": 141,
+    "subject": "Organic Chemistry",
+    "question": "The product of oxidation of secondary alcohol is",
+    "options": ["ketone", "aldehyde", "acid", "ester"],
+    "answer": "ketone"
+  },
+  {
+    "id": 142,
+    "subject": "Organic Chemistry",
+    "question": "Urea contains",
+    "options": ["one carbonyl and two amino groups", "one carboxyl group", "two hydroxyl groups", "two carbonyl groups"],
+    "answer": "one carbonyl and two amino groups"
+  },
+  {
+    "id": 143,
+    "subject": "Organic Chemistry",
+    "question": "The amino acid containing sulfur is",
+    "options": ["cysteine", "glycine", "alanine", "valine"],
+    "answer": "cysteine"
+  },
+  {
+    "id": 144,
+    "subject": "Organic Chemistry",
+    "question": "The linkage in proteins is",
+    "options": ["peptide linkage", "glycosidic linkage", "ester linkage", "disulfide linkage"],
+    "answer": "peptide linkage"
+  },
+  {
+    "id": 145,
+    "subject": "Organic Chemistry",
+    "question": "Glucose and fructose are",
+    "options": ["functional isomers", "chain isomers", "optical isomers", "position isomers"],
+    "answer": "functional isomers"
+  },
+  {
+    "id": 146,
+    "subject": "Organic Chemistry",
+    "question": "The test used to detect glucose is",
+    "options": ["Fehling's test", "Tollen's test", "Benedict's test", "all of these"],
+    "answer": "all of these"
+  },
+  {
+    "id": 147,
+    "subject": "Organic Chemistry",
+    "question": "The simplest amino acid is",
+    "options": ["glycine", "alanine", "serine", "valine"],
+    "answer": "glycine"
+  },
+  {
+    "id": 148,
+    "subject": "Organic Chemistry",
+    "question": "The molecular formula of glucose is",
+    "options": ["$C_{6}H_{12}O_{6}$", "$C_{6}H_{10}O_{5}$", "$C_{12}H_{22}O_{11}$", "$C_{12}H_{10}O_{6}$"],
+    "answer": "$C_{6}H_{12}O_{6}$"
+  },
+  {
+    "id": 149,
+    "subject": "Organic Chemistry",
+    "question": "Sucrose is a disaccharide of",
+    "options": ["glucose and fructose", "glucose and galactose", "glucose and glucose", "fructose and galactose"],
+    "answer": "glucose and fructose"
+  },
+  {
+    "id": 150,
+    "subject": "Organic Chemistry",
+    "question": "The monomer of proteins is",
+    "options": ["amino acid", "peptide", "carbohydrate", "fatty acid"],
+    "answer": "amino acid"
+  },
+  {
+    "id": 151,
+    "subject": "Organic Chemistry",
+    "question": "Nylon-6 is obtained from",
+    "options": ["caprolactam", "adipic acid", "hexamethylene diamine", "lactic acid"],
+    "answer": "caprolactam"
+  },
+  {
+    "id": 152,
+    "subject": "Organic Chemistry",
+    "question": "Teflon is a polymer of",
+    "options": ["tetrafluoroethylene", "ethylene", "vinyl chloride", "propylene"],
+    "answer": "tetrafluoroethylene"
+  },
+  {
+    "id": 153,
+    "subject": "Organic Chemistry",
+    "question": "The polymerization of ethene gives",
+    "options": ["polyethylene", "polypropylene", "polystyrene", "PVC"],
+    "answer": "polyethylene"
+  },
+  {
+    "id": 154,
+    "subject": "Organic Chemistry",
+    "question": "Natural rubber is a polymer of",
+    "options": ["isoprene", "butadiene", "styrene", "neoprene"],
+    "answer": "isoprene"
+  },
+  {
+    "id": 155,
+    "subject": "Organic Chemistry",
+    "question": "The functional group in amines is",
+    "options": ["-NH$_{2}$", "-COOH", "-CHO", "-OH"],
+    "answer": "-NH$_{2}$"
+  },
+  {
+    "id": 156,
+    "subject": "Organic Chemistry",
+    "question": "The compound obtained by heating ammonium chloride with NaOH is",
+    "options": ["ammonia", "amine", "salt", "nitrite"],
+    "answer": "ammonia"
+  },
+  {
+    "id": 157,
+    "subject": "Organic Chemistry",
+    "question": "Aniline reacts with bromine water to form",
+    "options": ["2,4,6-tribromoaniline", "bromobenzene", "chlorobenzene", "nitroaniline"],
+    "answer": "2,4,6-tribromoaniline"
+  },
+  {
+    "id": 158,
+    "subject": "Organic Chemistry",
+    "question": "The structure of acetone is",
+    "options": ["$CH_{3}COCH_{3}$", "$CH_{3}CHO$", "$CH_{3}COOH$", "$CH_{2}OHCH_{2}OH$"],
+    "answer": "$CH_{3}COCH_{3}$"
+  },
+  {
+    "id": 159,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "In a metallic conductor, the drift velocity of electrons is proportional to",
+    "options": ["electric field", "current density", "resistance", "resistivity"],
+    "answer": "electric field"
+  },
+  {
+    "id": 160,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Two resistors 4 Ω and 6 Ω are connected in parallel. Their equivalent resistance is",
+    "options": ["2.4 Ω", "10 Ω", "3.6 Ω", "1.5 Ω"],
+    "answer": "2.4 Ω"
+  },
+  {
+    "id": 161,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "When the temperature of a metallic conductor increases, its resistance",
+    "options": ["increases", "decreases", "remains same", "becomes zero"],
+    "answer": "increases"
+  },
+  {
+    "id": 162,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Kirchhoff's current law is based on the conservation of",
+    "options": ["charge", "energy", "momentum", "potential"],
+    "answer": "charge"
+  },
+  {
+    "id": 163,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "A galvanometer can be converted into an ammeter by connecting",
+    "options": ["low resistance in parallel", "high resistance in series", "low resistance in series", "high resistance in parallel"],
+    "answer": "low resistance in parallel"
+  },
+  {
+    "id": 164,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The internal resistance of an ideal cell is",
+    "options": ["zero", "infinite", "1Ω", "0.5 Ω"],
+    "answer": "zero"
+  },
+  {
+    "id": 165,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The Sl unit of resistivity is",
+    "options": ["Ωm", "Ω/m", "m/Ω", "A/V"],
+    "answer": "Ωm"
+  },
+  {
+    "id": 166,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Wheatstone bridge is balanced when",
+    "options": ["current through galvanometer is zero", "emf is maximum", "resistance is minimum", "power is zero"],
+    "answer": "current through galvanometer is zero"
+  },
+  {
+    "id": 167,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The capacitance of a parallel plate capacitor depends on",
+    "options": ["plate area", "separation", "dielectric constant", "all of these"],
+    "answer": "all of these"
+  },
+  {
+    "id": 168,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The energy stored in a capacitor C charged to voltage V is",
+    "options": ["$\\frac{1}{2}CV^{2}$", "$CV^{2}$", "$V^{2}/2C$", "$\\frac{1}{2}C/V^{2}$"],
+    "answer": "$\\frac{1}{2}CV^{2}$"
+  },
+  {
+    "id": 169,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "A 2 µF and 4 µF capacitor in series have an equivalent capacitance of",
+    "options": ["1.33 µF", "6 µF", "3 µF", "8 µF"],
+    "answer": "1.33 µF"
+  },
+  {
+    "id": 170,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The direction of magnetic field around a current-carrying conductor is given by",
+    "options": ["Fleming's left-hand rule", "Fleming's right-hand rule", "Right-hand thumb rule", "Ampere's law"],
+    "answer": "Right-hand thumb rule"
+  },
+  {
+    "id": 171,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The unit of magnetic flux is",
+    "options": ["weber", "tesla", "coulomb", "henry"],
+    "answer": "weber"
+  },
+  {
+    "id": 172,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "If a bar magnet is cut into two equal halves, each piece will have",
+    "options": ["half pole strength", "same pole strength", "double pole strength", "no pole"],
+    "answer": "same pole strength"
+  },
+  {
+    "id": 173,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The magnetic field inside a solenoid is directly proportional to",
+    "options": ["number of turns per unit length", "current", "both", "none"],
+    "answer": "both"
+  },
+  {
+    "id": 174,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The magnetic flux through a surface is maximum when",
+    "options": ["$\\theta=0^{\\circ}$", "$\\theta=90^{\\circ}$", "$\\theta=45^{\\circ}$", "$\\theta=180^{\\circ}$"],
+    "answer": "$\\theta=0^{\\circ}$"
+  },
+  {
+    "id": 175,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The phenomenon of electromagnetic induction was discovered by",
+    "options": ["Faraday", "Oersted", "Ampere", "Henry"],
+    "answer": "Faraday"
+  },
+  {
+    "id": 176,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The induced emf is directly proportional to",
+    "options": ["rate of change of flux", "flux", "resistance", "area"],
+    "answer": "rate of change of flux"
+  },
+  {
+    "id": 177,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Lenz's law is a consequence of",
+    "options": ["conservation of energy", "charge", "momentum", "flux"],
+    "answer": "conservation of energy"
+  },
+  {
+    "id": 178,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The Sl unit of inductance is",
+    "options": ["henry", "weber", "tesla", "ohm"],
+    "answer": "henry"
+  },
+  {
+    "id": 179,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "In an AC circuit, the current and voltage are in phase for",
+    "options": ["pure resistor", "pure inductor", "pure capacitor", "none"],
+    "answer": "pure resistor"
+  },
+  {
+    "id": 180,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The phase difference between current and voltage in a pure inductor is",
+    "options": ["$90^{\\circ}$", "$0^{\\circ}$", "$180^{\\circ}$", "$45^{\\circ}$"],
+    "answer": "$90^{\\circ}$"
+  },
+  {
+    "id": 181,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The power factor in a purely resistive circuit is",
+    "options": ["1", "0", "-1", "$\\frac{1}{2}$"],
+    "answer": "1"
+  },
+  {
+    "id": 182,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The transformer works on the principle of",
+    "options": ["mutual induction", "self induction", "resonance", "capacitance"],
+    "answer": "mutual induction"
+  },
+  {
+    "id": 183,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "A step-up transformer",
+    "options": ["increases voltage", "decreases voltage", "increases current", "decreases frequency"],
+    "answer": "increases voltage"
+  },
+  {
+    "id": 184,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The energy loss due to eddy current is minimized by using",
+    "options": ["laminated core", "solid core", "copper core", "iron ring"],
+    "answer": "laminated core"
+  },
+  {
+    "id": 185,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The direction of induced current is given by",
+    "options": ["Lenz's law", "Ampere's law", "Coulomb's law", "Gauss's law"],
+    "answer": "Lenz's law"
+  },
+  {
+    "id": 186,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The magnetic field due to a long straight wire varies as",
+    "options": ["$1/r$", "$1/r^{2}$", "r", "constant"],
+    "answer": "$1/r$"
+  },
+  {
+    "id": 187,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The torque on a current loop in magnetic field is",
+    "options": ["$nBIAsin~\\theta$", "nBlAcos", "$BIA/\\theta$", "$BI/\\theta$"],
+    "answer": "$nBIAsin~\\theta$"
+  },
+  {
+    "id": 188,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The magnetic susceptibility of a perfect diamagnet is",
+    "options": ["-1", "0", "+1", "$\\infty$"],
+    "answer": "-1"
+  },
+  {
+    "id": 189,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The relation between B and H in a material is",
+    "options": ["$B=\\mu H$", "$B=H/\\mu$", "$B=\\mu_{0}H$", "$B=H/\\mu_{0}$"],
+    "answer": "$B=\\mu H$"
+  },
+  {
+    "id": 190,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "A magnetic material with high retentivity is used for",
+    "options": ["permanent magnets", "temporary magnets", "cores", "soft magnets"],
+    "answer": "permanent magnets"
+  },
+  {
+    "id": 191,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The unit of permeability is",
+    "options": ["H/m", "A/m", "$Wb/m^{2}$", "none"],
+    "answer": "H/m"
+  },
+  {
+    "id": 192,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The inductive reactance $X_{L}$ is given by",
+    "options": ["$2\\pi fL$", "$L/2\\pi f$", "$f/2\\pi L$", "$L/f$"],
+    "answer": "$2\\pi fL$"
+  },
+  {
+    "id": 193,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The capacitive reactance $X_{C}$ is given by",
+    "options": ["$1/2\\pi fC$", "$2\\pi fC$", "$C/2\\pi f$", "$f/2\\pi c$"],
+    "answer": "$1/2\\pi fC$"
+  },
+  {
+    "id": 194,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The impedance in a series RLC circuit is",
+    "options": ["$\\sqrt{R^{2}+(X_{L}-X_{C})^{2}}$", "$R+X_{L}+X_{C}$", "$R^{2}+X_{L}^{2}+X_{C}^{2}$", "$R^{2}X_{L}X_{C}$"],
+    "answer": "$\\sqrt{R^{2}+(X_{L}-X_{C})^{2}}$"
+  },
+  {
+    "id": 195,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "In resonance condition, the impedance of an RLC circuit is",
+    "options": ["minimum", "maximum", "zero", "infinite"],
+    "answer": "minimum"
+  },
+  {
+    "id": 196,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "A current of 2 A flows in a 3 Ω resistor. The heat produced in 10 s is",
+    "options": ["120 J", "60 J", "90 J", "100 J"],
+    "answer": "120 J"
+  },
+  {
+    "id": 197,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Coulomb's law is analogous to",
+    "options": ["Newton's law of gravitation", "Ohm's law", "Faraday's law", "Ampere's law"],
+    "answer": "Newton's law of gravitation"
+  },
+  {
+    "id": 198,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The electric field between two parallel plates of 12 V potential difference and 0.01 m separation is",
+    "options": ["$1200~V/m$", "$120~V/m$", "$2~V/m$", "$1.2~V/m$"],
+    "answer": "$1200~V/m$"
+  },
+  {
+    "id": 199,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Electric potential is a",
+    "options": ["scalar", "vector", "tensor", "none"],
+    "answer": "scalar"
+  },
+  {
+    "id": 200,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Gauss's law relates electric flux with",
+    "options": ["charge enclosed", "electric field", "potential", "distance"],
+    "answer": "charge enclosed"
+  },
+  {
+    "id": 201,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The capacitance of a spherical conductor is proportional to",
+    "options": ["its radius", "1/radius", "area", "none"],
+    "answer": "its radius"
+  },
+  {
+    "id": 202,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The direction of electric field is",
+    "options": ["from positive to negative", "from negative to positive", "both", "random"],
+    "answer": "from positive to negative"
+  },
+  {
+    "id": 203,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "If the electric field is doubled, the force on a charge will",
+    "options": ["double", "halve", "remain same", "zero"],
+    "answer": "double"
+  },
+  {
+    "id": 204,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The unit of electric field is",
+    "options": ["N/C", "C/N", "J/C", "V"],
+    "answer": "N/C"
+  },
+  {
+    "id": 205,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The SI unit of charge is",
+    "options": ["coulomb", "farad", "henry", "tesla"],
+    "answer": "coulomb"
+  },
+  {
+    "id": 206,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The number of electrons in one coulomb charge is",
+    "options": ["$6.25\\times10^{18}$", "$1.6\\times10^{-19}$", "$9.1\\times10^{-31}$", "$3\\times10^{8}$"],
+    "answer": "$6.25\\times10^{18}$"
+  },
+  {
+    "id": 207,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "The dielectric constant of vacuum is",
+    "options": ["1", "0", "$8.85\\times10^{-12}$", "infinite"],
+    "answer": "1"
+  },
+  {
+    "id": 208,
+    "subject": "Physics (Electricity and Magnetism)",
+    "question": "Magnetic field inside a toroid is",
+    "options": ["$\\frac{\\mu_{0}NI}{2\\pi r}$", "$\\frac{\\mu_{0}I}{4\\pi r^{2}}$", "zero", "infinite"],
+    "answer": "$\\frac{\\mu_{0}NI}{2\\pi r}$"
+  },
+  {
+    "id": 209,
+    "subject": "Cell Biology",
+    "question": "Which organelle is responsible for $\\beta$-oxidation of fatty acids?",
+    "options": ["Lysosome", "Peroxisome", "Golgi body", "Mitochondria"],
+    "answer": "Peroxisome"
+  },
+  {
+    "id": 210,
+    "subject": "Cell Biology",
+    "question": "Which of the following lacks a membrane?",
+    "options": ["Ribosome", "Lysosome", "Peroxisome", "Nucleus"],
+    "answer": "Ribosome"
+  },
+  {
+    "id": 211,
+    "subject": "Cell Biology",
+    "question": "The 80S ribosome consists of:",
+    "options": ["$50S+30S$", "$60s+40s$", "$70S+10S$", "$55S+25S$"],
+    "answer": "$60s+40s$"
+  },
+  {
+    "id": 212,
+    "subject": "Cell Biology",
+    "question": "Microtubules are made up of:",
+    "options": ["Actin", "Tubulin", "Myosin", "Collagen"],
+    "answer": "Tubulin"
+  },
+  {
+    "id": 213,
+    "subject": "Cell Biology",
+    "question": "The function of smooth endoplasmic reticulum is:",
+    "options": ["Protein synthesis", "Lipid synthesis", "ATP production", "Photosynthesis"],
+    "answer": "Lipid synthesis"
+  },
+  {
+    "id": 214,
+    "subject": "Cell Biology",
+    "question": "Cristae are structures associated with:",
+    "options": ["Chloroplast", "Nucleus", "Mitochondria", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 215,
+    "subject": "Cell Biology",
+    "question": "The \"powerhouse\" of the cell is called:",
+    "options": ["Lysosome", "Golgi body", "Mitochondria", "Ribosome"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 216,
+    "subject": "Cell Biology",
+    "question": "The semi-permeable nature of plasma membrane is due to:",
+    "options": ["Phospholipid bilayer", "Peripheral proteins", "Carbohydrates", "Cholesterol"],
+    "answer": "Phospholipid bilayer"
+  },
+  {
+    "id": 217,
+    "subject": "Cell Biology",
+    "question": "The cell wall of fungi is made of:",
+    "options": ["Cellulose", "Chitin", "Pectin", "Lignin"],
+    "answer": "Chitin"
+  },
+  {
+    "id": 218,
+    "subject": "Cell Biology",
+    "question": "Ribosomes were first discovered by:",
+    "options": ["Palade", "Schwann", "Hooke", "de Duve"],
+    "answer": "Palade"
+  },
+  {
+    "id": 219,
+    "subject": "Cell Biology",
+    "question": "Which of the following has its own ribosomes and DNA?",
+    "options": ["Lysosome", "Mitochondria", "Ribosome", "Centriole"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 220,
+    "subject": "Cell Biology",
+    "question": "The Golgi apparatus is primarily involved in:",
+    "options": ["Protein modification and packaging", "Energy production", "Transcription", "DNA repair"],
+    "answer": "Protein modification and packaging"
+  },
+  {
+    "id": 221,
+    "subject": "Cell Biology",
+    "question": "The cell theory does not apply to:",
+    "options": ["Plants", "Animals", "Viruses", "Bacteria"],
+    "answer": "Viruses"
+  },
+  {
+    "id": 222,
+    "subject": "Cell Biology",
+    "question": "The nucleolus is mainly concerned with:",
+    "options": ["DNA replication", "Ribosome synthesis", "mRNA formation", "ATP generation"],
+    "answer": "Ribosome synthesis"
+  },
+  {
+    "id": 223,
+    "subject": "Cell Biology",
+    "question": "Fluid mosaic model describes:",
+    "options": ["Cell wall", "Plasma membrane", "Mitochondria", "Chloroplast"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "id": 224,
+    "subject": "Cell Biology",
+    "question": "The site of protein synthesis is:",
+    "options": ["Ribosome", "Golgi body", "ER lumen", "Lysosome"],
+    "answer": "Ribosome"
+  },
+  {
+    "id": 225,
+    "subject": "Cell Biology",
+    "question": "The chromatin which is transcriptionally active is:",
+    "options": ["Heterochromatin", "Euchromatin", "Both", "None"],
+    "answer": "Euchromatin"
+  },
+  {
+    "id": 226,
+    "subject": "Cell Biology",
+    "question": "The centrosome is absent in:",
+    "options": ["Animal cells", "Plant cells", "Fungal cells", "Protozoans"],
+    "answer": "Plant cells"
+  },
+  {
+    "id": 227,
+    "subject": "Cell Biology",
+    "question": "The plasma membrane model of Danielli and Davson was later replaced because it:",
+    "options": ["Ignored proteins", "Ignored lipids", "Ignored fluidity", "Ignored carbohydrates"],
+    "answer": "Ignored fluidity"
+  },
+  {
+    "id": 228,
+    "subject": "Cell Biology",
+    "question": "The lysosomes are known as:",
+    "options": ["Protein factory", "Powerhouse", "Suicidal bag", "Packaging center"],
+    "answer": "Suicidal bag"
+  },
+  {
+    "id": 229,
+    "subject": "Genetics",
+    "question": "The law of segregation was proposed by:",
+    "options": ["Darwin", "Lamarck", "Mendel", "Morgan"],
+    "answer": "Mendel"
+  },
+  {
+    "id": 230,
+    "subject": "Genetics",
+    "question": "Incomplete dominance is shown in:",
+    "options": ["Pea plant", "Mirabilis jalapa", "Drosophila", "Maize"],
+    "answer": "Mirabilis jalapa"
+  },
+  {
+    "id": 231,
+    "subject": "Genetics",
+    "question": "The ratio in dihybrid cross under independent assortment is:",
+    "options": ["9:3:3:1", "1:2:1", "3:1", "1:1"],
+    "answer": "9:3:3:1"
+  },
+  {
+    "id": 232,
+    "subject": "Genetics",
+    "question": "Crossing over occurs during:",
+    "options": ["Prophase I", "Metaphasel", "Anaphase I", "Telophase I"],
+    "answer": "Prophase I"
+  },
+  {
+    "id": 233,
+    "subject": "Genetics",
+    "question": "A test cross helps to determine:",
+    "options": ["Genotype", "Phenotype", "Hybrid vigor", "Mutation rate"],
+    "answer": "Genotype"
+  },
+  {
+    "id": 234,
+    "subject": "Genetics",
+    "question": "The chromosome theory of inheritance was proposed by:",
+    "options": ["Sutton and Boveri", "Mendel", "Watson and Crick", "Beadle and Tatum"],
+    "answer": "Sutton and Boveri"
+  },
+  {
+    "id": 235,
+    "subject": "Genetics",
+    "question": "The number of linkage groups in humans is:",
+    "options": ["23", "22", "46", "44"],
+    "answer": "23"
+  },
+  {
+    "id": 236,
+    "subject": "Genetics",
+    "question": "A woman with genotype XDXd marries a normal man. What is the probability of affected sons?",
+    "options": ["0%", "25%", "50%", "100%"],
+    "answer": "50%"
+  },
+  {
+    "id": 237,
+    "subject": "Genetics",
+    "question": "The distance between genes on a chromosome is measured in:",
+    "options": ["Morgans", "Centimorgans", "Picometers", "Kilobases"],
+    "answer": "Centimorgans"
+  },
+  {
+    "id": 238,
+    "subject": "Genetics",
+    "question": "Mutations that occur naturally are called:",
+    "options": ["Induced", "Spontaneous", "Artificial", "Chromosomal"],
+    "answer": "Spontaneous"
+  },
+  {
+    "id": 239,
+    "subject": "Genetics",
+    "question": "Point mutation involves:",
+    "options": ["Addition of a gene", "Substitution of a single base", "Loss of chromosome", "Duplication"],
+    "answer": "Substitution of a single base"
+  },
+  {
+    "id": 240,
+    "subject": "Genetics",
+    "question": "A monohybrid cross gives what genotypic ratio?",
+    "options": ["1:2:1", "3:1", "9:3:3:1", "1:1"],
+    "answer": "1:2:1"
+  },
+  {
+    "id": 241,
+    "subject": "Genetics",
+    "question": "A back cross is a cross between:",
+    "options": ["Two $F_{1}$ hybrids", "$F_{1}$ and recessive parent", "Two parents", "$F_{1}$ and $F_{2}$"],
+    "answer": "$F_{1}$ and recessive parent"
+  },
+  {
+    "id": 242,
+    "subject": "Genetics",
+    "question": "A mutagen that causes thymine dimer formation is:",
+    "options": ["UV radiation", "X-rays", "Nitrous acid", "Mustard gas"],
+    "answer": "UV radiation"
+  },
+  {
+    "id": 243,
+    "subject": "Genetics",
+    "question": "The observable expression of a gene is:",
+    "options": ["Genotype", "Phenotype", "Allele", "Trait"],
+    "answer": "Phenotype"
+  },
+  {
+    "id": 244,
+    "subject": "Genetics",
+    "question": "The concept of \"one gene-one enzyme\" was given by:",
+    "options": ["Beadle and Tatum", "Watson", "Mendel", "Morgan"],
+    "answer": "Beadle and Tatum"
+  },
+  {
+    "id": 245,
+    "subject": "Genetics",
+    "question": "Trisomy 21 causes:",
+    "options": ["Turner's syndrome", "Down's syndrome", "Klinefelter's", "Edward's"],
+    "answer": "Down's syndrome"
+  },
+  {
+    "id": 246,
+    "subject": "Genetics",
+    "question": "During meiosis, non-disjunction causes:",
+    "options": ["Polyploidy", "Aneuploidy", "Mutation", "Deletion"],
+    "answer": "Aneuploidy"
+  },
+  {
+    "id": 247,
+    "subject": "Genetics",
+    "question": "A mutation that does not affect the amino acid sequence is called:",
+    "options": ["Missense", "Nonsense", "Silent", "Frameshift"],
+    "answer": "Silent"
+  },
+  {
+    "id": 248,
+    "subject": "Genetics",
+    "question": "The DNA replication is:",
+    "options": ["Conservative", "Dispersive", "Semiconservative", "Progressive"],
+    "answer": "Semiconservative"
+  },
+  {
+    "id": 249,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Xylem is responsible for the transport of:",
+    "options": ["Food", "Water", "Hormones", "Amino acids"],
+    "answer": "Water"
+  },
+  {
+    "id": 250,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Companion cells are found associated with:",
+    "options": ["Xylem", "Phloem", "Collenchyma", "Sclerenchyma"],
+    "answer": "Phloem"
+  },
+  {
+    "id": 251,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The meristem present at tips of roots and shoots is called:",
+    "options": ["Apical", "Intercalary", "Lateral", "Permanent"],
+    "answer": "Apical"
+  },
+  {
+    "id": 252,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Secondary growth occurs in:",
+    "options": ["Monocots", "Dicots", "Algae", "Moss"],
+    "answer": "Dicots"
+  },
+  {
+    "id": 253,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Annual rings are formed due to:",
+    "options": ["Primary xylem", "Secondary xylem", "Phloem", "Cork"],
+    "answer": "Secondary xylem"
+  },
+  {
+    "id": 254,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The Casparian strip is found in:",
+    "options": ["Epidermis", "Endodermis", "Cortex", "Pericycle"],
+    "answer": "Endodermis"
+  },
+  {
+    "id": 255,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The xylem element living at maturity is:",
+    "options": ["Tracheid", "Vessel", "Xylem parenchyma", "Xylem fiber"],
+    "answer": "Xylem parenchyma"
+  },
+  {
+    "id": 256,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Lenticels are involved in:",
+    "options": ["Water transport", "Gaseous exchange", "Food conduction", "Secondary thickening"],
+    "answer": "Gaseous exchange"
+  },
+  {
+    "id": 257,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The cork cambium gives rise to:",
+    "options": ["Pericycle", "Phellogen", "Phellem", "Phloem"],
+    "answer": "Phellem"
+  },
+  {
+    "id": 258,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Collenchyma provides:",
+    "options": ["Mechanical support", "Storage", "Transport", "Photosynthesis"],
+    "answer": "Mechanical support"
+  },
+  {
+    "id": 259,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The apical meristem originates from:",
+    "options": ["Permanent tissue", "Embryonic cells", "Lateral meristem", "Secondary xylem"],
+    "answer": "Embryonic cells"
+  },
+  {
+    "id": 260,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The periderm replaces:",
+    "options": ["Cortex", "Epidermis", "Xylem", "Phloem"],
+    "answer": "Epidermis"
+  },
+  {
+    "id": 261,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Sclerenchyma is made up of:",
+    "options": ["Living cells", "Dead cells", "Parenchyma", "Collenchyma"],
+    "answer": "Dead cells"
+  },
+  {
+    "id": 262,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The vascular bundles in monocot stem are:",
+    "options": ["Conjoint and closed", "Radial", "Open", "Amphivasal"],
+    "answer": "Conjoint and closed"
+  },
+  {
+    "id": 263,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The sieve tube elements lack:",
+    "options": ["Nucleus", "Cytoplasm", "Pits", "Perforation plate"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 264,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Heartwood differs from sapwood in having:",
+    "options": ["More moisture", "Function in conduction", "Dead and lignified cells", "Less color"],
+    "answer": "Dead and lignified cells"
+  },
+  {
+    "id": 265,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Intercalary meristem is responsible for:",
+    "options": ["Branch growth", "Leaf elongation", "Secondary thickening", "Root formation"],
+    "answer": "Leaf elongation"
+  },
+  {
+    "id": 266,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The cambium responsible for secondary xylem formation is:",
+    "options": ["Phellogen", "Vascular cambium", "Apical meristem", "Intercalary meristem"],
+    "answer": "Vascular cambium"
+  },
+  {
+    "id": 267,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "Resin and tannins are found in:",
+    "options": ["Cortex", "Pith", "Heartwood", "Phloem"],
+    "answer": "Heartwood"
+  },
+  {
+    "id": 268,
+    "subject": "Plant Anatomy & Tissue",
+    "question": "The outermost layer of root is:",
+    "options": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+    "answer": "Epidermis"
+  },
+  {
+    "id": 269,
+    "subject": "Human System & Physiology",
+    "question": "The pacemaker of the heart is:",
+    "options": ["AV node", "SA node", "Purkinje fiber", "Bundle of His"],
+    "answer": "SA node"
+  },
+  {
+    "id": 270,
+    "subject": "Human System & Physiology",
+    "question": "The functional unit of kidney is:",
+    "options": ["Glomerulus", "Nephron", "Loop of Henle", "Tubule"],
+    "answer": "Nephron"
+  },
+  {
+    "id": 271,
+    "subject": "Human System & Physiology",
+    "question": "Which part of brain controls respiration?",
+    "options": ["Cerebellum", "Medulla oblongata", "Pons", "Cerebrum"],
+    "answer": "Medulla oblongata"
+  },
+  {
+    "id": 272,
+    "subject": "Human System & Physiology",
+    "question": "The largest gland in human body is:",
+    "options": ["Liver", "Pancreas", "Thyroid", "Adrenal"],
+    "answer": "Liver"
+  },
+  {
+    "id": 273,
+    "subject": "Human System & Physiology",
+    "question": "Insulin is secreted by:",
+    "options": ["Alpha cells", "Beta cells", "Delta cells", "Acinar cells"],
+    "answer": "Beta cells"
+  },
+  {
+    "id": 274,
+    "subject": "Human System & Physiology",
+    "question": "The smallest bone in human body is:",
+    "options": ["Stapes", "Malleus", "Incus", "Humerus"],
+    "answer": "Stapes"
+  },
+  {
+    "id": 275,
+    "subject": "Human System & Physiology",
+    "question": "Which vitamin helps in clotting of blood?",
+    "options": ["A", "D", "E", "K"],
+    "answer": "K"
+  },
+  {
+    "id": 276,
+    "subject": "Human System & Physiology",
+    "question": "Which muscle is involuntary and striated?",
+    "options": ["Skeletal", "Smooth", "Cardiac", "None"],
+    "answer": "Cardiac"
+  },
+  {
+    "id": 277,
+    "subject": "Human System & Physiology",
+    "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
+    "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Coronary vein"],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "id": 278,
+    "subject": "Human System & Physiology",
+    "question": "The reflex action is coordinated by:",
+    "options": ["Brain", "Spinal cord", "Medulla", "Cerebellum"],
+    "answer": "Spinal cord"
+  },
+  {
+    "id": 279,
+    "subject": "Human System & Physiology",
+    "question": "The structural and functional unit of nervous system is:",
+    "options": ["Neuron", "Brain", "Spinal cord", "Axon"],
+    "answer": "Neuron"
+  },
+  {
+    "id": 280,
+    "subject": "Human System & Physiology",
+    "question": "Which enzyme digests protein in stomach?",
+    "options": ["Trypsin", "Pepsin", "Amylase", "Lipase"],
+    "answer": "Pepsin"
+  },
+  {
+    "id": 281,
+    "subject": "Human System & Physiology",
+    "question": "The bile juice is produced by:",
+    "options": ["Pancreas", "Liver", "Stomach", "Gall bladder"],
+    "answer": "Liver"
+  },
+  {
+    "id": 282,
+    "subject": "Human System & Physiology",
+    "question": "Which hormone regulates calcium level?",
+    "options": ["Insulin", "Parathormone", "Adrenaline", "Thyroxine"],
+    "answer": "Parathormone"
+  },
+  {
+    "id": 283,
+    "subject": "Human System & Physiology",
+    "question": "Oxygen binds to hemoglobin at:",
+    "options": ["Iron atom", "Globin chain", "Heme group", "Porphyrin ring"],
+    "answer": "Iron atom"
+  },
+  {
+    "id": 284,
+    "subject": "Human System & Physiology",
+    "question": "Which part of ear maintains balance?",
+    "options": ["Cochlea", "Semicircular canals", "Tympanum", "Eustachian tube"],
+    "answer": "Semicircular canals"
+  },
+  {
+    "id": 285,
+    "subject": "Human System & Physiology",
+    "question": "Which chamber of heart receives oxygenated blood?",
+    "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+    "answer": "Left atrium"
+  },
+  {
+    "id": 286,
+    "subject": "Human System & Physiology",
+    "question": "The normal blood pressure of adult is:",
+    "options": ["80/120", "120/80", "100/70", "130/90"],
+    "answer": "120/80"
+  },
+  {
+    "id": 287,
+    "subject": "Human System & Physiology",
+    "question": "Hemoglobin is a conjugated protein with:",
+    "options": ["Iron", "Copper", "Sodium", "Zinc"],
+    "answer": "Iron"
+  },
+  {
+    "id": 288,
+    "subject": "Human System & Physiology",
+    "question": "Which organ secretes digestive enzymes and hormones?",
+    "options": ["Stomach", "Pancreas", "Liver", "Gall bladder"],
+    "answer": "Pancreas"
+  },
+  {
+    "id": 289,
+    "subject": "Inorganic Chemistry",
+    "question": "The first ionization energy of aluminum is less than that of magnesium because:",
+    "options": ["Aluminum has a higher nuclear charge", "Aluminum has an electron in the 3p orbital", "Magnesium is more electropositive", "Both have same electronic configuration"],
+    "answer": "Aluminum has an electron in the 3p orbital"
+  },
+  {
+    "id": 290,
+    "subject": "Inorganic Chemistry",
+    "question": "Which element has the highest electron affinity?",
+    "options": ["Oxygen", "Fluorine", "Chlorine", "Sulfur"],
+    "answer": "Chlorine"
+  },
+  {
+    "id": 291,
+    "subject": "Inorganic Chemistry",
+    "question": "The ionic radius of $N^{3-}$ is greater than that of $O^{2-}$ because:",
+    "options": ["$N^{3-}$ has less nuclear charge", "$O^{2-}$ has more electrons", "$N^{3-}$ is more electronegative", "None of these"],
+    "answer": "$N^{3-}$ has less nuclear charge"
+  },
+  {
+    "id": 292,
+    "subject": "Inorganic Chemistry",
+    "question": "Among the following, which element has the highest electronegativity difference with hydrogen?",
+    "options": ["Nitrogen", "Oxygen", "Fluorine", "Chlorine"],
+    "answer": "Fluorine"
+  },
+  {
+    "id": 293,
+    "subject": "Inorganic Chemistry",
+    "question": "Across a period, atomic size decreases mainly due to:",
+    "options": ["Increase in number of shells", "Increase in nuclear charge", "Decrease in shielding effect", "Decrease in principal quantum number"],
+    "answer": "Increase in nuclear charge"
+  },
+  {
+    "id": 294,
+    "subject": "Inorganic Chemistry",
+    "question": "The dipole moment of $NH_{3}$ is greater than $NF_{3}$ because:",
+    "options": ["N-H bond is more polar than N-F", "$NH_{3}$ has trigonal pyramidal shape and bond dipoles add up", "$NF_{3}$ is planar", "$NF_{3}$ has lone pairs that enhance dipole"],
+    "answer": "$NH_{3}$ has trigonal pyramidal shape and bond dipoles add up"
+  },
+  {
+    "id": 295,
+    "subject": "Inorganic Chemistry",
+    "question": "The correct order of bond strength is:",
+    "options": ["$N_{2}>O_{2}>F_{2}$", "$F_{2}>O_{2}>N_{2}$", "$O_{2}>N_{2}>F_{2}$", "$O_{2}>F_{2}>N_{2}$"],
+    "answer": "$N_{2}>O_{2}>F_{2}$"
+  },
+  {
+    "id": 296,
+    "subject": "Inorganic Chemistry",
+    "question": "Which molecule has zero dipole moment?",
+    "options": ["$H_{2}O$", "$NH_{3}$", "$CO_{2}$", "$SO_{2}$"],
+    "answer": "$CO_{2}$"
+  },
+  {
+    "id": 297,
+    "subject": "Inorganic Chemistry",
+    "question": "The shape of $XeF_{4}$ is:",
+    "options": ["Tetrahedral", "Square planar", "Trigonal bipyramidal", "See-saw"],
+    "answer": "Square planar"
+  },
+  {
+    "id": 298,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following has maximum covalent character (Fajan's rule)?",
+    "options": ["LiCl", "NaCl", "KCl", "CsCl"],
+    "answer": "LiCl"
+  },
+  {
+    "id": 299,
+    "subject": "Inorganic Chemistry",
+    "question": "Hydrogen resembles alkali metals because:",
+    "options": ["Forms $H^{+}$ ion", "Has one electron in valence shell", "Both a and b", "None"],
+    "answer": "Both a and b"
+  },
+  {
+    "id": 300,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following hydrides is ionic?",
+    "options": ["$BeH_{2}$", "$MgH_{2}$", "$BH_{3}$", "$CH_{4}$"],
+    "answer": "$MgH_{2}$"
+  },
+  {
+    "id": 301,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following is amphoteric?",
+    "options": ["MgO", "CaO", "ZnO", "$Na_{2}O$"],
+    "answer": "ZnO"
+  },
+  {
+    "id": 302,
+    "subject": "Inorganic Chemistry",
+    "question": "Among alkali metals, which forms the most stable carbonate?",
+    "options": ["$Li_{2}CO_{3}$", "$Na_{2}CO_{3}$", "$K_{2}CO_{3}$", "$Cs_{2}CO_{3}$"],
+    "answer": "$Cs_{2}CO_{3}$"
+  },
+  {
+    "id": 303,
+    "subject": "Inorganic Chemistry",
+    "question": "Solubility of alkaline earth metal sulphates decreases down the group because:",
+    "options": ["Hydration energy decreases faster than lattice energy", "Lattice energy decreases faster than hydration energy", "Both remain constant", "Hydration energy increases"],
+    "answer": "Hydration energy decreases faster than lattice energy"
+  },
+  {
+    "id": 304,
+    "subject": "Inorganic Chemistry",
+    "question": "The bond angle of $H_{2}O$ is less than $NH_{3}$ due to:",
+    "options": ["Higher lone pair-bond pair repulsion", "Smaller electronegativity", "Lesser hybridization", "Higher nuclear charge"],
+    "answer": "Higher lone pair-bond pair repulsion"
+  },
+  {
+    "id": 305,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following oxides shows acidic character?",
+    "options": ["$Na_{2}O$", "MgO", "$Al_{2}O_{3}$", "$P_{2}O_{5}$"],
+    "answer": "$P_{2}O_{5}$"
+  },
+  {
+    "id": 306,
+    "subject": "Inorganic Chemistry",
+    "question": "The correct oxidation state of sulfur in $H_{2}SO_{4}$ is:",
+    "options": ["+2", "+4", "+6", "+8"],
+    "answer": "+6"
+  },
+  {
+    "id": 307,
+    "subject": "Inorganic Chemistry",
+    "question": "Which halogen forms strongest hydrogen bond with hydrogen?",
+    "options": ["F", "Cl", "Br", "I"],
+    "answer": "F"
+  },
+  {
+    "id": 308,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following compounds is most basic?",
+    "options": ["$NH_{3}$", "$PH_{3}$", "$ASH_{3}$", "$SbH_{3}$"],
+    "answer": "$NH_{3}$"
+  },
+  {
+    "id": 309,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following ions is colorless?",
+    "options": ["$Ti^{3+}$", "$Cu^{2+}$", "$Sc^{3+}$", "$Cr^{3+}$"],
+    "answer": "$Sc^{3+}$"
+  },
+  {
+    "id": 310,
+    "subject": "Inorganic Chemistry",
+    "question": "Which transition element shows highest oxidation state?",
+    "options": ["Fe", "Mn", "Cr", "V"],
+    "answer": "Mn"
+  },
+  {
+    "id": 311,
+    "subject": "Inorganic Chemistry",
+    "question": "Magnetic moment of $[Mn^{2+}]$ ion (5 unpaired electrons) is:",
+    "options": ["2.83 BM", "4.90 BM", "5.92 BM", "1.73 BM"],
+    "answer": "5.92 BM"
+  },
+  {
+    "id": 312,
+    "subject": "Inorganic Chemistry",
+    "question": "Which pair shows disproportionation?",
+    "options": ["$Cu^{+}$", "$Fe^{2+}$", "$Mn^{2+}$", "$Cr^{3+}$"],
+    "answer": "$Cu^{+}$"
+  },
+  {
+    "id": 313,
+    "subject": "Inorganic Chemistry",
+    "question": "The color of $K_{2}Cr_{2}O_{7}$ is due to:",
+    "options": ["Charge transfer", "d-d transition", "f-f transition", "lonization energy"],
+    "answer": "Charge transfer"
+  },
+  {
+    "id": 314,
+    "subject": "Inorganic Chemistry",
+    "question": "Which lanthanide ion is diamagnetic?",
+    "options": ["$Ce^{3+}$", "$Sm^{3+}$", "$La^{3+}$", "$Eu^{2+}$"],
+    "answer": "$La^{3+}$"
+  },
+  {
+    "id": 315,
+    "subject": "Inorganic Chemistry",
+    "question": "Lanthanide contraction causes:",
+    "options": ["Increase in atomic radius", "Similar size of 4d and 5d series", "Decrease in density", "Decrease in oxidation states"],
+    "answer": "Similar size of 4d and 5d series"
+  },
+  {
+    "id": 316,
+    "subject": "Coordination Chemistry",
+    "question": "Which of the following complexes shows optical isomerism?",
+    "options": ["$[Co(NH_{3})_{6}]^{3+}$", "$[Cr(en)_{3}]^{3+}$", "$[Fe(CN)_{6}]^{3-}$", "$[Ni(CO)_{4}]$"],
+    "answer": "$[Cr(en)_{3}]^{3+}$"
+  },
+  {
+    "id": 317,
+    "subject": "Coordination Chemistry",
+    "question": "In $[Ni(CN)_{4}]^{2-}$ complex, Ni exhibits:",
+    "options": ["$sp^{3}$ hybridization (paramagnetic)", "$dsp^{2}$ hybridization (diamagnetic)", "$sp^{2}$ hybridization (paramagnetic)", "$dsp^{3}$ hybridization (paramagnetic)"],
+    "answer": "$dsp^{2}$ hybridization (diamagnetic)"
+  },
+  {
+    "id": 318,
+    "subject": "Coordination Chemistry",
+    "question": "The coordination number of Fe in $[Fe(C_{2}O_{4})_{3}]^{3-}$ is:",
+    "options": ["3", "4", "5", "6"],
+    "answer": "6"
+  },
+  {
+    "id": 319,
+    "subject": "Inorganic Chemistry",
+    "question": "The oxidizing agent in reaction: $2Fe^{2+}+Cl_{2}\\rightarrow2Fe^{3+}+2Cl^{-}$ is:",
+    "options": ["$Fe^{2+}$", "$Fe^{3+}$", "$Cl_{2}$", "Cl"],
+    "answer": "$Cl_{2}$"
+  },
+  {
+    "id": 320,
+    "subject": "Inorganic Chemistry",
+    "question": "In acidic medium, $MnO_{4}^{-}$ is reduced to $Mn^{2+}$. The number of electrons involved per Mn is:",
+    "options": ["3", "5", "7", "2"],
+    "answer": "5"
+  },
+  {
+    "id": 321,
+    "subject": "Inorganic Chemistry",
+    "question": "Which acid is used in lead storage battery?",
+    "options": ["HCl", "$H_{2}SO_{4}$", "$HNO_{3}$", "$H_{3}PO_{4}$"],
+    "answer": "$H_{2}SO_{4}$"
+  },
+  {
+    "id": 322,
+    "subject": "Inorganic Chemistry",
+    "question": "The strongest reducing agent among halides is:",
+    "options": ["$F^{-}$", "$Cl^{-}$", "$Br^{-}$", "$I^{-}$"],
+    "answer": "$I^{-}$"
+  },
+  {
+    "id": 323,
+    "subject": "Inorganic Chemistry",
+    "question": "Disproportionation occurs when oxidation number:",
+    "options": ["Increases only", "Decreases only", "Both increases and decreases", "Remains same"],
+    "answer": "Both increases and decreases"
+  },
+  {
+    "id": 324,
+    "subject": "Coordination Chemistry",
+    "question": "Which complex violates the 18-electron rule?",
+    "options": ["$[Fe(CO)_{5}]$", "$[Ni(CO)_{4}]$", "$[V(CO)_{6}]^{-}$", "$[Mn(CO)_{6}]^{-}$"],
+    "answer": "$[Mn(CO)_{6}]^{-}$"
+  },
+  {
+    "id": 325,
+    "subject": "Coordination Chemistry",
+    "question": "The geometry of $[Fe(CN)_{6}]^{3-}$ is:",
+    "options": ["Tetrahedral", "Octahedral", "Square planar", "Trigonal bipyramidal"],
+    "answer": "Octahedral"
+  },
+  {
+    "id": 326,
+    "subject": "Coordination Chemistry",
+    "question": "The isomerism shown by $[Co(NO_{2})(NH_{3})_{5}]Cl_{2}$ is:",
+    "options": ["Linkage", "Coordination", "lonization", "Geometrical"],
+    "answer": "Linkage"
+  },
+  {
+    "id": 327,
+    "subject": "Coordination Chemistry",
+    "question": "In $[Cr(NH_{3})_{6}]^{3+}$, oxidation number of Cr is:",
+    "options": ["0", "+2", "+3", "+6"],
+    "answer": "+3"
+  },
+  {
+    "id": 328,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following shows both oxidation and reduction of the same element?",
+    "options": ["$Cl_{2} + H_{2}O \\rightarrow HCl + HOCl$", "$2H_{2} + O_{2} \\rightarrow 2H_{2}O$", "$2KClO_{3} \\rightarrow 2KCl + 3O_{2}$", "$MnO_{2} + 4HCl \\rightarrow MnCl_{2} + Cl_{2} + 2H_{2}O$"],
+    "answer": "$Cl_{2} + H_{2}O \\rightarrow HCl + HOCl$"
+  },
+  {
+    "id": 329,
+    "subject": "Inorganic Chemistry",
+    "question": "The most abundant element in Earth’s crust is:",
+    "options": ["Silicon", "Oxygen", "Aluminum", "Iron"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 330,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following forms a protective oxide layer?",
+    "options": ["Mg", "Na", "K", "Ba"],
+    "answer": "Mg"
+  },
+  {
+    "id": 331,
+    "subject": "Inorganic Chemistry",
+    "question": "Which property of transition metals decreases irregularly due to electronic configuration anomaly?",
+    "options": ["Atomic radius", "Ionization energy", "Melting point", "Density"],
+    "answer": "Ionization energy"
+  },
+  {
+    "id": 332,
+    "subject": "Inorganic Chemistry",
+    "question": "The inert pair effect is maximum in:",
+    "options": ["3rd period", "4th period", "5th period", "6th period"],
+    "answer": "6th period"
+  },
+  {
+    "id": 333,
+    "subject": "Inorganic Chemistry",
+    "question": "Which of the following is not a noble gas compound?",
+    "options": ["$XeF_{2}$", "$XeOF_{4}$", "$KrF_{2}$", "$ArCl_{2}$"],
+    "answer": "$ArCl_{2}$"
+  },
+  {
+    "id": 334,
+    "subject": "Inorganic Chemistry",
+    "question": "Aqueous solution of $AlCl_{3}$ is acidic because:",
+    "options": ["$Al^{3+}$ ion hydrolyzes water", "$Al^{3+}$ forms complex with $Cl^{-}$", "$AlCl_{3}$ dissociates completely", "$Al^{3+}$ acts as base"],
+    "answer": "$Al^{3+}$ ion hydrolyzes water"
+  },
+  {
+    "id": 335,
+    "subject": "Inorganic Chemistry",
+    "question": "The reaction of $Cl_{2}$ with cold, dilute NaOH gives:",
+    "options": ["$NaCl + NaClO + H_{2}O$", "$NaCl + NaClO_{3} + H_{2}O$", "$NaCl + NaOH + H_{2}O$", "$NaCl + HCl$"],
+    "answer": "$NaCl + NaClO + H_{2}O$"
+  },
+  {
+    "id": 336,
+    "subject": "Inorganic Chemistry",
+    "question": "The bleaching action of $SO_{2}$ is due to:",
+    "options": ["Reduction", "Oxidation", "Hydrolysis", "Chlorination"],
+    "answer": "Reduction"
+  },
+  {
+    "id": 337,
+    "subject": "Inorganic Chemistry",
+    "question": "Aqua regia dissolves gold because:",
+    "options": ["Forms soluble $AuCl_{4}^{-}$ complex", "Produces nascent hydrogen", "Produces atomic oxygen", "Converts Au into oxide"],
+    "answer": "Forms soluble $AuCl_{4}^{-}$ complex"
+  },
+  {
+    "id": 338,
+    "subject": "Inorganic Chemistry",
+    "question": "The color of $KMnO_{4}$ is due to:",
+    "options": ["$Mn^{7+}$ ion transition (charge transfer)", "d–d transition", "f–f transition"],
+    "answer": "$Mn^{7+}$ ion transition (charge transfer)"
+  },
+  {
+    "id": 339,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The speed of sound in a medium increases when:",
+    "options": ["Density increases", "Elasticity increases", "Temperature decreases", "Pressure is reduced"],
+    "answer": "Elasticity increases"
+  },
+  {
+    "id": 340,
+    "subject": "Physics (Wave & Sound)",
+    "question": "Two waves of frequencies 440 Hz and 444 Hz interfere. The beat frequency is:",
+    "options": ["2 Hz", "4 Hz", "8 Hz", "0 Hz"],
+    "answer": "4 Hz"
+  },
+  {
+    "id": 341,
+    "subject": "Physics (Wave & Sound)",
+    "question": "In Doppler effect, when source moves away from observer, the observed frequency:",
+    "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+    "answer": "Decreases"
+  },
+  {
+    "id": 342,
+    "subject": "Physics (Wave & Sound)",
+    "question": "Fundamental frequency of a stretched string is f. If length is halved, the new fundamental frequency is:",
+    "options": ["f/2", "2f", "4f", "$\\sqrt{2} f$"],
+    "answer": "2f"
+  },
+  {
+    "id": 343,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The first overtone of an open pipe is:",
+    "options": ["Equal to fundamental", "2 $\\times$ fundamental", "3 $\\times$ fundamental", "4 $\\times$ fundamental"],
+    "answer": "2 $\\times$ fundamental"
+  },
+  {
+    "id": 344,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The intensity of a sound is proportional to:",
+    "options": ["Amplitude", "Amplitude$^2$", "Frequency", "Wavelength"],
+    "answer": "Amplitude$^2$"
+  },
+  {
+    "id": 345,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The nodes and antinodes in a stationary wave:",
+    "options": ["Move along the medium", "Remain stationary", "Only nodes move", "Only antinodes move"],
+    "answer": "Remain stationary"
+  },
+  {
+    "id": 346,
+    "subject": "Physics (Wave & Sound)",
+    "question": "For a stretched string, frequency depends on:",
+    "options": ["Tension, length, and mass per unit length", "Only length and tension", "Only mass per unit length", "None"],
+    "answer": "Tension, length, and mass per unit length"
+  },
+  {
+    "id": 347,
+    "subject": "Physics (Wave & Sound)",
+    "question": "Sound cannot travel in vacuum because:",
+    "options": ["No pressure", "No density", "No medium", "Speed is zero"],
+    "answer": "No medium"
+  },
+  {
+    "id": 348,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The velocity of sound in air at $0^{\\circ}C$ is 331 m/s. At $27^{\\circ}C$, it becomes approximately:",
+    "options": ["340 m/s", "331 m/s", "300 m/s", "360 m/s"],
+    "answer": "340 m/s"
+  },
+  {
+    "id": 349,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The quality of a sound is determined by:",
+    "options": ["Frequency", "Amplitude", "Waveform", "Speed"],
+    "answer": "Waveform"
+  },
+  {
+    "id": 350,
+    "subject": "Physics (Wave & Sound)",
+    "question": "In a closed organ pipe, the fundamental wavelength is:",
+    "options": ["4 $\\times$ length of pipe", "2 $\\times$ length", "Equal to length", "8 $\\times$ length"],
+    "answer": "4 $\\times$ length of pipe"
+  },
+  {
+    "id": 351,
+    "subject": "Physics (Wave & Sound)",
+    "question": "When a tuning fork is struck in a vacuum, it:",
+    "options": ["Produces no sound", "Produces same frequency", "Produces higher frequency", "Produces lower frequency"],
+    "answer": "Produces no sound"
+  },
+  {
+    "id": 352,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The resonance frequency of a string fixed at both ends:",
+    "options": ["Depends on tension only", "Depends on length only", "Depends on tension, length, and linear density", "Independent of string"],
+    "answer": "Depends on tension, length, and linear density"
+  },
+  {
+    "id": 353,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The time period of a simple harmonic wave on a stretched string is:",
+    "options": ["Independent of tension", "Inversely proportional to $\\sqrt{\\text{tension}}$", "Proportional to tension", "None"],
+    "answer": "Inversely proportional to $\\sqrt{\\text{tension}}$"
+  },
+  {
+    "id": 354,
+    "subject": "Physics (Wave & Sound)",
+    "question": "Beat phenomenon occurs due to:",
+    "options": ["Interference of waves of slightly different amplitude", "Interference of waves of slightly different frequency", "Resonance", "Diffraction"],
+    "answer": "Interference of waves of slightly different frequency"
+  },
+  {
+    "id": 355,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The speed of transverse wave on a stretched string is 100 m/s. If tension is quadrupled, new speed is:",
+    "options": ["50 m/s", "100 m/s", "200 m/s", "400 m/s"],
+    "answer": "200 m/s"
+  },
+  {
+    "id": 356,
+    "subject": "Physics (Wave & Sound)",
+    "question": "In the phenomenon of diffraction, the central maximum width:",
+    "options": ["Decreases with wavelength", "Increases with wavelength", "Independent of wavelength", "Zero"],
+    "answer": "Increases with wavelength"
+  },
+  {
+    "id": 357,
+    "subject": "Physics (Wave & Sound)",
+    "question": "The pitch of sound depends on:",
+    "options": ["Frequency", "Amplitude", "Wavelength", "Velocity"],
+    "answer": "Frequency"
+  },
+  {
+    "id": 358,
+    "subject": "Physics (Wave & Sound)",
+    "question": "In a harmonic wave, energy transported is proportional to:",
+    "options": ["Frequency", "Square of amplitude", "Wavelength", "Speed"],
+    "answer": "Square of amplitude"
+  },
+  {
+    "id": 359,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The equivalent capacitance of two capacitors in series is:",
+    "options": ["Sum of capacitances", "Product/sum", "Difference of capacitances", "None"],
+    "answer": "Product/sum"
+  },
+  {
+    "id": 360,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Magnetic field inside a long solenoid is:",
+    "options": ["$\\mu_{0} n I$", "$\\mu_{0} I$", "$\\mu_{0} n$", "$\\mu_{0} n I^{2}$"],
+    "answer": "$\\mu_{0} n I$"
+  },
+  {
+    "id": 361,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The direction of induced current is given by:",
+    "options": ["Ohm’s law", "Lenz’s law", "Coulomb’s law", "Faraday’s first law"],
+    "answer": "Lenz’s law"
+  },
+  {
+    "id": 362,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The energy stored in a capacitor is:",
+    "options": ["$\\frac{1}{2} CV^{2}$", "$CV^{2}$", "$\\frac{1}{2} C/V^{2}$", "$C^{2}V$"],
+    "answer": "$\\frac{1}{2} CV^{2}$"
+  },
+  {
+    "id": 363,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Drift velocity of electrons is proportional to:",
+    "options": ["Current density", "Resistivity", "Cross-sectional area", "Length"],
+    "answer": "Current density"
+  },
+  {
+    "id": 364,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The self-inductance of a coil depends on:",
+    "options": ["Number of turns and geometry", "Material only", "Resistance only", "Applied voltage"],
+    "answer": "Number of turns and geometry"
+  },
+  {
+    "id": 365,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The radius of orbit of electron in Bohr’s hydrogen atom is:",
+    "options": ["Inversely proportional to $n^{2}$", "Proportional to $n^{2}$", "Constant", "Proportional to $n$"],
+    "answer": "Proportional to $n^{2}$"
+  },
+  {
+    "id": 366,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The magnetic flux through a loop is maximum when:",
+    "options": ["Field is perpendicular", "Field is parallel", "Loop area is zero", "None"],
+    "answer": "Field is parallel"
+  },
+  {
+    "id": 367,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "In a circuit with resistor R and capacitor C, the time constant $\\tau = RC$ represents:",
+    "options": ["Time to fully charge", "Time to reach 37% charge", "Time to discharge completely", "None"],
+    "answer": "Time to reach 37% charge"
+  },
+  {
+    "id": 368,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "A wire carries current I. If its length is doubled keeping cross-section same, resistance becomes:",
+    "options": ["R/2", "2R", "R", "4R"],
+    "answer": "2R"
+  },
+  {
+    "id": 369,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The magnetic field at the center of circular loop of radius R carrying current I is:",
+    "options": ["$\\mu_{0} I / (2R)$", "$\\mu_{0} I / R^{2}$", "$\\mu_{0} I R /2$", "$\\mu_{0} I / (4\\pi R)$"],
+    "answer": "$\\mu_{0} I / (2R)$"
+  },
+  {
+    "id": 370,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "For two long parallel wires carrying equal current in opposite directions, the force per unit length:",
+    "options": ["Attractive", "Repulsive", "Zero", "Depends on distance"],
+    "answer": "Repulsive"
+  },
+  {
+    "id": 371,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Dielectric constant affects:",
+    "options": ["Capacitance", "Resistance", "Inductance", "EMF"],
+    "answer": "Capacitance"
+  },
+  {
+    "id": 372,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Power dissipated in resistor is maximum when load resistance is:",
+    "options": ["Zero", "Infinite", "Equal to internal resistance", "Twice internal resistance"],
+    "answer": "Equal to internal resistance"
+  },
+  {
+    "id": 373,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Hall effect helps in measuring:",
+    "options": ["Charge of electron", "Current", "Magnetic field", "Resistivity"],
+    "answer": "Magnetic field"
+  },
+  {
+    "id": 374,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "EMF induced in a loop moving in magnetic field depends on:",
+    "options": ["Area and velocity", "Resistance only", "Length only", "Field only"],
+    "answer": "Area and velocity"
+  },
+  {
+    "id": 375,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "When two capacitors of equal capacitance C are connected in series, total energy stored is:",
+    "options": ["$2CV^{2}$", "$CV^{2}/2$", "$CV^{2}$", "$4CV^{2}$"],
+    "answer": "$CV^{2}/2$"
+  },
+  {
+    "id": 376,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "The Lorentz force on a charge moving parallel to magnetic field is:",
+    "options": ["Maximum", "Zero", "Half", "Depends on speed"],
+    "answer": "Zero"
+  },
+  {
+    "id": 377,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Potential difference across inductor in AC circuit leads current by:",
+    "options": ["$90^{\\circ}$", "$0^{\\circ}$", "$180^{\\circ}$", "$45^{\\circ}$"],
+    "answer": "$90^{\\circ}$"
+  },
+  {
+    "id": 378,
+    "subject": "Physics (Electricity and Magnetism - Advanced)",
+    "question": "Energy density in magnetic field B is:",
+    "options": ["$B^{2}/(2\\mu_{0})$", "$B^{2}/(\\mu_{0})$", "$\\mu_{0} B^{2}/2$", "$\\mu_{0} B^{2}$"],
+    "answer": "$B^{2}/(2\\mu_{0})$"
+  },
+  {
+    "id": 379,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "Focal length of concave mirror is negative because:",
+    "options": ["Real focus", "Virtual focus", "Diverging mirror", "None"],
+    "answer": "Real focus"
+  },
+  {
+    "id": 380,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "Lens formula $1/f = 1/v - 1/u$ is valid for:",
+    "options": ["Thin lens", "Thick lens", "Mirrors", "All optical devices"],
+    "answer": "Thin lens"
+  },
+  {
+    "id": 381,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "For diffraction grating, the angular separation increases with:",
+    "options": ["Wavelength", "Number of lines", "Both", "Neither"],
+    "answer": "Wavelength"
+  },
+  {
+    "id": 382,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "The resolving power of microscope depends on:",
+    "options": ["Wavelength and numerical aperture", "Lens material", "Magnification only", "Aperture only"],
+    "answer": "Wavelength and numerical aperture"
+  },
+  {
+    "id": 383,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "In photoelectric effect, stopping potential is independent of:",
+    "options": ["Light intensity", "Frequency", "Work function", "Charge of electron"],
+    "answer": "Light intensity"
+  },
+  {
+    "id": 384,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "The energy of a photon is:",
+    "options": ["hf", "hc/$\\lambda$", "Both a & b", "None"],
+    "answer": "Both a & b"
+  },
+  {
+    "id": 385,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "Compton effect proves that:",
+    "options": ["Light has wave nature", "Light has particle nature", "Electron has wave nature", "Electron has particle nature"],
+    "answer": "Light has particle nature"
+  },
+  {
+    "id": 386,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "De Broglie wavelength of electron decreases when:",
+    "options": ["Velocity increases", "Mass decreases", "Planck’s constant increases", "None"],
+    "answer": "Velocity increases"
+  },
+  {
+    "id": 387,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "In interference, path difference giving destructive interference is:",
+    "options": ["$n\\lambda$", "$(2n+1)\\lambda/2$", "$\\lambda/2$", "$2\\lambda$"],
+    "answer": "$(2n+1)\\lambda/2$"
+  },
+  {
+    "id": 388,
+    "subject": "Physics (Light/Optics/Modern)",
+    "question": "The bending of light around corners is called:",
+    "options": ["Refraction", "Reflection", "Diffraction", "Polarization"],
+    "answer": "Diffraction"
+  }
+]

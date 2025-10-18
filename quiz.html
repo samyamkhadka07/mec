@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ subject }} | MEC CEE Quiz</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg" data-page="quiz"
+      data-quiz-id="{{ quiz_id }}"
+      data-timer-seconds="{{ timer_seconds }}"
+      data-subject="{{ subject }}"
+      data-total="{{ total_questions }}">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Prep</div>
+      <a href="/" class="nav-link">Dashboard</a>
+      <a href="/quiz/full" class="nav-link">Full Test</a>
+      <a href="/leaderboard" class="nav-link">Leaderboard</a>
+    </div>
+    <div class="nav-right">
+      <div class="user-pill">Hi, {{ username }}</div>
+      <a href="/logout" class="btn-outline danger">Logout</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    {% if total_questions == 0 %}
+    <div class="card">
+      <h2>No questions available for {{ subject }} yet.</h2>
+      <a class="btn-primary" href="/">Back to Dashboard</a>
+    </div>
+    {% else %}
+    <div class="card">
+      <div class="quiz-header">
+        <div>
+          <h2>{{ subject }}</h2>
+          <div class="progress-wrap">
+            <div id="progressText">Question 1 of {{ total_questions }}</div>
+            <div class="progress">
+              <div id="progressBar" class="progress-bar" style="width: 0%;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="timer" id="timer">--:--</div>
+      </div>
+      <div id="questionArea" class="question-area">
+        <div class="loading">Loading questions…</div>
+      </div>
+      <div class="quiz-actions">
+        <button id="prevBtn" class="btn-outline" disabled>← Previous</button>
+        <button id="nextBtn" class="btn-primary">Next →</button>
+        <button id="submitBtn" class="btn-secondary" style="display:none;">Submit</button>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

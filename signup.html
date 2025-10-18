@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sign up | MEC CEE Preparation</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Prep</div>
+    </div>
+    <div class="nav-right">
+      <a href="/login" class="btn-outline">Log in</a>
+    </div>
+  </nav>
+
+  <div class="container narrow">
+    <div class="card">
+      <h1>Create account</h1>
+      <p class="subtle">Join the platform to master your CEE.</p>
+      {% if error %}
+      <div class="alert">{{ error }}</div>
+      {% endif %}
+      <form method="POST" class="form">
+        <label>Username</label>
+        <input type="text" name="username" placeholder="Choose a username" required />
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Create a password" required />
+        <label>Confirm Password</label>
+        <input type="password" name="confirm" placeholder="Re-enter your password" required />
+        <button type="submit" class="btn-primary full">Sign up</button>
+      </form>
+      <p class="muted" style="margin-top: 12px;">Already have an account? <a href="/login">Log in</a></p>
+    </div>
+  </div>
+</body>
+</html>

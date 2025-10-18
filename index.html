@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard | MEC CEE Preparation</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Prep</div>
+      <a href="/" class="nav-link active">Dashboard</a>
+      <a href="/quiz/full" class="nav-link">Full Test</a>
+      <a href="/leaderboard" class="nav-link">Leaderboard</a>
+    </div>
+    <div class="nav-right">
+      <div class="user-pill">Hi, {{ username }}</div>
+      <a href="/logout" class="btn-outline danger">Logout</a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <h1>MEC CEE Preparation</h1>
+    <p>Master your Medical Education Common Entrance Examination with our comprehensive quiz platform.</p>
+  </header>
+
+  <div class="container">
+    <div class="grid">
+      {% for subject in subjects %}
+      <div class="card subject-card">
+        <div class="card-header">{{ subject }}</div>
+        <p class="muted">High-yield questions to sharpen your concepts.</p>
+        <div class="meta-row">
+          <div class="meta">
+            <span class="badge">{{ targets[subject] }}</span> Questions
+          </div>
+          <div class="meta">Difficulty: Mixed</div>
+        </div>
+        <a class="btn-primary full" href="/quiz/{{ subject|urlencode }}">Start Quiz →</a>
+      </div>
+      {% endfor %}
+
+      <div class="card subject-card accent">
+        <div class="card-header">Full Test Mode</div>
+        <p class="muted">A combined test of all subjects. Recommended before the exam.</p>
+        <div class="meta-row">
+          <div class="meta"><span class="badge">{{ targets['Physics'] + targets['Chemistry'] + targets['Botany'] + targets['Zoology'] + targets['Mental Agility Test'] }}</span> Total Questions</div>
+          <div class="meta">Single timer</div>
+        </div>
+        <a class="btn-secondary full" href="/quiz/full">Start Full Test →</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

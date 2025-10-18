@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Result | MEC CEE</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Prep</div>
+      <a href="/" class="nav-link">Dashboard</a>
+      <a href="/quiz/full" class="nav-link">Full Test</a>
+      <a href="/leaderboard" class="nav-link">Leaderboard</a>
+    </div>
+    <div class="nav-right">
+      <div class="user-pill">Hi, {{ username }}</div>
+      <a href="/logout" class="btn-outline danger">Logout</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="card">
+      <h2>Result: {{ subject }}</h2>
+      <div class="score-row">
+        <div class="score-box">
+          <div class="label">Score</div>
+          <div class="value">{{ score }} / {{ total }}</div>
+        </div>
+        <div class="score-box">
+          <div class="label">Percentage</div>
+          <div class="value">{{ percentage }}%</div>
+        </div>
+        <div class="score-box">
+          <div class="label">Remarks</div>
+          <div class="value">{{ remark }}</div>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn-primary" href="{{ '/quiz/full' if subject == 'Full Test' else '/quiz/' + subject }}">Retake Quiz</a>
+        <a class="btn-outline" href="/">Back to Dashboard</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Review Answers</h3>
+      <div class="qa-list">
+        {% for item in details %}
+        <div class="qa-item {% if item.is_correct %}correct{% else %}incorrect{% endif %}">
+          <div class="qa-q">
+            <span class="q-num">Q{{ loop.index }}.</span> {{ item.question }}
+          </div>
+          <ul class="qa-options">
+            {% for opt in item.options %}
+            <li class="{% if opt == item.correct_answer %}correct-opt{% endif %} {% if opt == item.user_answer and not item.is_correct %}user-wrong{% endif %}">
+              {{ "ABCD"[loop.index0] }}) {{ opt }}
+            </li>
+            {% endfor %}
+          </ul>
+          <div class="qa-meta">
+            Your answer: <strong>{{ item.user_answer if item.user_answer else "Not answered" }}</strong> | Correct: <strong>{{ item.correct_answer }}</strong>
+          </div>
+          {% if item.explanation %}
+          <div class="qa-expl">
+            Explanation: {{ item.explanation }}
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

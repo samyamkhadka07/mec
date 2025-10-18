@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin | MEC CEE</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg" data-page="admin">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Admin</div>
+      <a href="/" class="nav-link">Dashboard</a>
+      <a href="/leaderboard" class="nav-link">Leaderboard</a>
+    </div>
+    <div class="nav-right">
+      <a href="/logout" class="btn-outline danger">Logout</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    {% if not admin_authed %}
+    <div class="card narrow">
+      <h2>Admin Panel Access</h2>
+      <p class="muted">Enter the admin password to manage questions.</p>
+      {% if error %}
+      <div class="alert">{{ error }}</div>
+      {% endif %}
+      <form method="POST" class="form">
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Enter admin password" required />
+        <button type="submit" class="btn-primary full">Enter Admin</button>
+      </form>
+      <p class="muted" style="margin-top: 8px;">Hint: admin123</p>
+    </div>
+    {% else %}
+    <div id="adminApp" class="card">
+      <h2>Question Bank</h2>
+      <div class="admin-controls">
+        <div>
+          <label for="filterSubject">Filter by subject:</label>
+          <select id="filterSubject">
+            <option value="All">All</option>
+            <option value="Physics">Physics</option>
+            <option value="Chemistry">Chemistry</option>
+            <option value="Botany">Botany</option>
+            <option value="Zoology">Zoology</option>
+            <option value="Mental Agility Test">Mental Agility Test</option>
+          </select>
+          <button id="refreshBtn" class="btn-outline">Refresh</button>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table class="table" id="questionsTable">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Subject</th>
+              <th>Question</th>
+              <th>Options (A–D)</th>
+              <th>Answer</th>
+              <th>Difficulty</th>
+              <th>Explanation</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="questionsBody">
+            <!-- Filled by JS -->
+          </tbody>
+        </table>
+      </div>
+
+      <h3 style="margin-top: 24px;">Add New Question</h3>
+      <form id="addForm" class="form grid-2">
+        <div>
+          <label>Subject</label>
+          <select name="subject" required>
+            <option value="Physics">Physics</option>
+            <option value="Chemistry">Chemistry</option>
+            <option value="Botany">Botany</option>
+            <option value="Zoology">Zoology</option>
+            <option value="Mental Agility Test">Mental Agility Test</option>
+          </select>
+        </div>
+        <div>
+          <label>Difficulty</label>
+          <select name="difficulty">
+            <option>Easy</option>
+            <option selected>Medium</option>
+            <option>Hard</option>
+          </select>
+        </div>
+        <div class="full">
+          <label>Question</label>
+          <textarea name="question" placeholder="Enter the question text" required></textarea>
+        </div>
+        <div>
+          <label>Option A</label>
+          <input name="optA" required />
+        </div>
+        <div>
+          <label>Option B</label>
+          <input name="optB" required />
+        </div>
+        <div>
+          <label>Option C</label>
+          <input name="optC" required />
+        </div>
+        <div>
+          <label>Option D</label>
+          <input name="optD" required />
+        </div>
+        <div>
+          <label>Correct Answer</label>
+          <select name="answer" required>
+            <option value="A">A</option>
+            <option value="B" selected>B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+          </select>
+        </div>
+        <div class="full">
+          <label>Explanation</label>
+          <textarea name="explanation" placeholder="Add a brief explanation (optional)"></textarea>
+        </div>
+        <div class="full">
+          <button type="submit" class="btn-primary">Add Question</button>
+        </div>
+      </form>
+
+      <h3 style="margin-top: 24px;">Bulk Import via CSV</h3>
+      <form id="csvForm" class="form" enctype="multipart/form-data">
+        <div>
+          <label for="csvFile">Upload CSV file</label>
+          <input id="csvFile" name="file" type="file" accept=".csv" required />
+        </div>
+        <div class="muted">
+          Headers: subject, question, optA, optB, optC, optD, answer, difficulty, explanation.
+          Answer can be A–D or exact option text.
+        </div>
+        <div style="display:flex; gap:10px; margin-top:8px;">
+          <a href="/admin/csv_template" class="btn-outline" target="_blank">Download CSV template</a>
+          <button type="submit" class="btn-secondary">Import CSV</button>
+        </div>
+        <div id="csvResult" class="subtle" style="margin-top:8px;"></div>
+      </form>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if admin_authed %}
+  <script src="/static/script.js"></script>
+  {% endif %}
+</body>
+</html>

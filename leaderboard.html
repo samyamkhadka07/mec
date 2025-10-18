@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Leaderboard | MEC CEE</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="bg">
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">MEC CEE Prep</div>
+      <a href="/" class="nav-link">Dashboard</a>
+      <a href="/quiz/full" class="nav-link">Full Test</a>
+      <a href="/leaderboard" class="nav-link active">Leaderboard</a>
+    </div>
+    <div class="nav-right">
+      <div class="user-pill">Hi, {{ username }}</div>
+      <a href="/logout" class="btn-outline danger">Logout</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="card">
+      <h2>Top 10 Scorers</h2>
+      <div class="table-wrap">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Username</th>
+              <th>Subject</th>
+              <th>Score</th>
+              <th>Percentage</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% if scores %}
+              {% for s in scores %}
+              <tr>
+                <td>{{ loop.index }}</td>
+                <td>{{ s.username if s.username else s["username"] }}</td>
+                <td>{{ s.subject if s.subject else s["subject"] }}</td>
+                <td>{{ s.score if s.score else s["score"] }} / {{ s.total if s.total else s["total"] }}</td>
+                <td>{{ s.percentage if s.percentage else s["percentage"] }}%</td>
+                <td>{{ s.date if s.date else s["date"] }}</td>
+              </tr>
+              {% endfor %}
+            {% else %}
+              <tr>
+                <td colspan="6" class="muted">No scores yet. Be the first to take a quiz!</td>
+              </tr>
+            {% endif %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
